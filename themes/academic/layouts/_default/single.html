@@ -1,0 +1,56 @@
+{{ define "main" }}
+<article class="single">
+    <header class="single-header">
+        <h1>{{ .Title }}</h1>
+        {{ if eq .Section "publications" }}
+            {{ with .Params.authors }}<p class="authors">{{ . }}</p>{{ end }}
+            {{ with .Params.venue }}<p class="venue"><em>{{ . }}</em></p>{{ end }}
+            <p class="date">{{ .Date.Format "January 2006" }}</p>
+            <div class="publication-links">
+                {{ with .Params.pdf }}<a href="{{ . }}" class="btn">PDF</a>{{ end }}
+                {{ with .Params.doi }}<a href="https://doi.org/{{ . }}" class="btn" target="_blank">DOI</a>{{ end }}
+                {{ with .Params.code }}<a href="{{ . }}" class="btn" target="_blank">Code</a>{{ end }}
+                {{ with .Params.slides }}<a href="{{ . }}" class="btn">Slides</a>{{ end }}
+            </div>
+        {{ else if eq .Section "projects" }}
+            {{ with .Params.tags }}
+            <div class="tags">
+                {{ range . }}<span class="tag">{{ . }}</span>{{ end }}
+            </div>
+            {{ end }}
+            <div class="project-links">
+                {{ with .Params.demo }}<a href="{{ . }}" class="btn" target="_blank">Live Demo</a>{{ end }}
+                {{ with .Params.code }}<a href="{{ . }}" class="btn" target="_blank">Source Code</a>{{ end }}
+            </div>
+        {{ else }}
+            <p class="date">{{ .Date.Format "January 2, 2006" }}</p>
+        {{ end }}
+    </header>
+
+    {{ with .Params.image }}
+    <figure class="featured-image">
+        <img src="{{ . | relURL }}" alt="{{ $.Title }}">
+    </figure>
+    {{ end }}
+
+    <div class="single-content">
+        {{ .Content }}
+    </div>
+
+    {{ if .Params.abstract }}
+    <section class="abstract">
+        <h2>Abstract</h2>
+        <p>{{ .Params.abstract }}</p>
+    </section>
+    {{ end }}
+</article>
+
+<nav class="single-nav">
+    {{ with .PrevInSection }}
+    <a href="{{ .Permalink }}" class="prev">&larr; {{ .Title }}</a>
+    {{ end }}
+    {{ with .NextInSection }}
+    <a href="{{ .Permalink }}" class="next">{{ .Title }} &rarr;</a>
+    {{ end }}
+</nav>
+{{ end }}

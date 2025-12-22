@@ -1,0 +1,71 @@
+{{ define "main" }}
+<section class="hero">
+    <div class="hero-content">
+        {{ with .Site.Params.avatar }}
+        <div class="avatar">
+            <img src="{{ . | relURL }}" alt="{{ $.Site.Params.author }}">
+        </div>
+        {{ end }}
+        <div class="hero-text">
+            <h1>{{ .Site.Params.author }}</h1>
+            {{ with .Site.Params.role }}<p class="role">{{ . }}</p>{{ end }}
+            {{ with .Site.Params.organization }}<p class="organization">{{ . }}</p>{{ end }}
+            {{ with .Site.Params.bio }}
+            <div class="bio">
+                {{ . | markdownify }}
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+{{ with .Site.Params.interests }}
+<section class="section">
+    <h2>Research Interests</h2>
+    <ul class="interests-list">
+        {{ range . }}
+        <li>{{ . }}</li>
+        {{ end }}
+    </ul>
+</section>
+{{ end }}
+
+{{ $publications := where .Site.RegularPages "Section" "publications" }}
+{{ if $publications }}
+<section class="section">
+    <h2>Recent Publications</h2>
+    <div class="publication-list">
+        {{ range first 5 $publications }}
+        <article class="publication-item">
+            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+            {{ with .Params.authors }}<p class="authors">{{ . }}</p>{{ end }}
+            {{ with .Params.venue }}<p class="venue"><em>{{ . }}</em></p>{{ end }}
+            <p class="date">{{ .Date.Format "2006" }}</p>
+        </article>
+        {{ end }}
+    </div>
+    <p class="view-all"><a href="{{ "publications/" | relURL }}">View all publications &rarr;</a></p>
+</section>
+{{ end }}
+
+{{ $projects := where .Site.RegularPages "Section" "projects" }}
+{{ if $projects }}
+<section class="section">
+    <h2>Featured Projects</h2>
+    <div class="project-grid">
+        {{ range first 4 $projects }}
+        <article class="project-card">
+            {{ with .Params.image }}
+            <img src="{{ . | relURL }}" alt="{{ $.Title }}">
+            {{ end }}
+            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+            <p>{{ .Summary }}</p>
+        </article>
+        {{ end }}
+    </div>
+    <p class="view-all"><a href="{{ "projects/" | relURL }}">View all projects &rarr;</a></p>
+</section>
+{{ end }}
+
+{{ .Content }}
+{{ end }}

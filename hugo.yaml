@@ -1,0 +1,92 @@
+baseURL: "https://yourusername.github.io/"
+languageCode: "en-us"
+title: "Dimitris - Academic Profile"
+theme: "academic"
+
+# Site metadata
+params:
+  author: "Dimitris"  # Replace with your full name
+  description: "Personal academic website showcasing research, publications, and projects."
+
+  # Profile information (displayed on homepage)
+  role: "Researcher / PhD Candidate"  # Your current position
+  organization: "University Name"  # Your institution
+  avatar: "images/avatar.jpg"  # Profile photo path
+
+  # Short bio for homepage
+  bio: |
+    I am a researcher specializing in [your field]. My work focuses on
+    [brief description of your research interests and goals].
+
+  # Research interests (displayed as tags on homepage)
+  interests:
+    - Machine Learning
+    - Data Science
+    - Computer Vision
+    - Natural Language Processing
+
+  # Social links (used in footer)
+  social:
+    email: "your.email@example.com"
+    github: "yourusername"
+    linkedin: "yourusername"
+    scholar: "your-google-scholar-id"  # Just the user ID part
+    orcid: "0000-0000-0000-0000"
+    # twitter: "yourusername"
+    # researchgate: "Your-Name"
+
+  # Favicon
+  favicon: "/favicon.ico"
+
+# Navigation menu
+menu:
+  main:
+    - name: "About"
+      url: "/"
+      weight: 1
+    - name: "Publications"
+      url: "/publications/"
+      weight: 2
+    - name: "Projects"
+      url: "/projects/"
+      weight: 3
+    - name: "CV"
+      url: "/cv/"
+      weight: 4
+
+# Markdown rendering
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    style: "github"
+
+# Output formats
+outputs:
+  home:
+    - HTML
+    - RSS
+
+# Permalinks
+permalinks:
+  publications: "/publications/:contentbasename/"
+  projects: "/projects/:contentbasename/"
+
+# Build settings
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+# Enable Git info for last modified dates (enable after first commit)
+enableGitInfo: false
+
+# Minify output
+minify:
+  disableCSS: false
+  disableHTML: false
+  disableJS: false
+  disableJSON: false
+  disableSVG: false
+  disableXML: false
+  minifyOutput: true

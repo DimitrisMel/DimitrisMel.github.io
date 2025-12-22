@@ -1,0 +1,54 @@
+{{ define "main" }}
+<section class="page-header">
+    <h1>{{ .Title }}</h1>
+    {{ with .Description }}<p class="description">{{ . }}</p>{{ end }}
+</section>
+
+<section class="section">
+    {{ .Content }}
+
+    {{ if eq .Section "publications" }}
+    <div class="publication-list">
+        {{ range .Pages.ByDate.Reverse }}
+        <article class="publication-item">
+            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+            {{ with .Params.authors }}<p class="authors">{{ . }}</p>{{ end }}
+            {{ with .Params.venue }}<p class="venue"><em>{{ . }}</em>{{ with $.Params.year }}, {{ . }}{{ end }}</p>{{ end }}
+            {{ with .Params.doi }}<p class="doi"><a href="https://doi.org/{{ . }}" target="_blank">DOI: {{ . }}</a></p>{{ end }}
+            <div class="publication-links">
+                {{ with .Params.pdf }}<a href="{{ . }}" class="btn btn-sm">PDF</a>{{ end }}
+                {{ with .Params.code }}<a href="{{ . }}" class="btn btn-sm" target="_blank">Code</a>{{ end }}
+                {{ with .Params.slides }}<a href="{{ . }}" class="btn btn-sm">Slides</a>{{ end }}
+            </div>
+        </article>
+        {{ end }}
+    </div>
+    {{ else if eq .Section "projects" }}
+    <div class="project-grid">
+        {{ range .Pages }}
+        <article class="project-card">
+            {{ with .Params.image }}
+            <img src="{{ . | relURL }}" alt="{{ $.Title }}">
+            {{ end }}
+            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+            <p>{{ .Summary }}</p>
+            {{ with .Params.tags }}
+            <div class="tags">
+                {{ range . }}<span class="tag">{{ . }}</span>{{ end }}
+            </div>
+            {{ end }}
+        </article>
+        {{ end }}
+    </div>
+    {{ else }}
+    <div class="page-list">
+        {{ range .Pages }}
+        <article>
+            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+            <p>{{ .Summary }}</p>
+        </article>
+        {{ end }}
+    </div>
+    {{ end }}
+</section>
+{{ end }}
