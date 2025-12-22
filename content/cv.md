@@ -8,66 +8,53 @@ title: "Curriculum Vitae"
 
 ## Education
 
-**Ph.D. in [Your Field]** | University Name | 2020 - Present
-- Thesis: "Title of Your Thesis"
-- Advisor: Prof. Advisor Name
+**Ph.D. in Computer Science** | University of Florida | 2023
+- Dissertation: "Dynamic Sketches for Adaptive Real-Time Network Traffic Monitoring"
 
-**M.Sc. in [Your Field]** | University Name | 2018 - 2020
-- Thesis: "Title of Your Master's Thesis"
-- GPA: X.XX/4.00
-
-**B.Sc. in [Your Field]** | University Name | 2014 - 2018
-- Relevant coursework: Course 1, Course 2, Course 3
-- GPA: X.XX/4.00
+**M.S. in Computer Science** | University of Florida
 
 ---
 
-## Experience
+## Academic Positions
 
-**Research Assistant** | University Name | 2020 - Present
-- Conducted research on [topic]
-- Published X papers in top-tier venues
-- Mentored undergraduate students
-
-**Software Engineering Intern** | Company Name | Summer 2019
-- Developed [project/feature]
-- Used technologies: Python, TensorFlow, etc.
+**Assistant Professor** | Grand Valley State University | 2023 - Present
+- Department of Computing, School of Computing and Information Systems
+- Teaching cybersecurity and network management courses at graduate and undergraduate levels
 
 ---
 
-## Skills
+## Research Interests
 
-**Programming Languages**: Python, R, C++, JavaScript
-
-**Frameworks & Tools**: PyTorch, TensorFlow, scikit-learn, Docker, Git
-
-**Research**: Experimental design, statistical analysis, academic writing
-
-**Languages**: English (Fluent), Greek (Native), [Others]
-
----
-
-## Awards & Honors
-
-- **Best Paper Award** | Conference Name | 2023
-- **Graduate Fellowship** | University Name | 2020-2024
-- **Dean's List** | University Name | 2014-2018
-
----
-
-## Professional Service
-
-**Reviewer**: Conference A, Conference B, Journal C
-
-**Teaching Assistant**:
-- Course Name (Semester Year)
-- Course Name (Semester Year)
+- **Network Traffic Measurement**: Accurate collection of network data using compact data structures called sketches for load balancing and security monitoring applications
+- **Privacy-Preserving Machine Learning**: Techniques to safeguard sensitive data during remote neural network training
 
 ---
 
 ## Selected Publications
 
+### 2025
+- H. Wang, C. Ma, **D. Melissourgos**, G. Gao, S. Chen. "Towards Guaranteed Accuracy for Flow Spread Measurement with (ε,β)-Nonduplicate Sampling." *IEEE INFOCOM 2025*.
+
+### 2024
+- C. Ma, O.O. Odegbile, **D. Melissourgos**, H. Wang, S. Chen. "From CountMin to Super kJoin Sketches for Flow Spread Estimation." *IEEE Transactions on Network Science and Engineering*, 11(3), 2353-2370.
+
+### 2023
+- **D. Melissourgos**, H. Wang, S. Chen, C. Ma, S. Chen. "Single Update Sketch with Variable Counter Structure." *Proceedings of the VLDB Endowment*, 16(13), 4296-4309.
+- H. Wang, **D. Melissourgos**, C. Ma, S. Chen. "Real-time Spread Burst Detection in Data Streaming." *Proceedings of the ACM on Measurement and Analysis of Computing Systems (POMACS)*, 7(2), 35:1-35:31.
+
+### 2022
+- C. Ma, H. Wang, O.O. Odegbile, S. Chen, **D. Melissourgos**. "Virtual Filter for Non-Duplicate Sampling With Network Applications." *IEEE/ACM Transactions on Networking*, 30(6), 2818-2833.
+- **D. Melissourgos**, H. Gao, C. Ma, S. Chen, S.S. Wu. "Training Medical-Diagnosis Neural Networks on the Cloud with Privacy-Sensitive Patient Data from Multiple Clients." *14th International Conference on Contemporary Computing (IC3)*.
+
+### 2021
+- **D. Melissourgos**, H. Gao, C. Ma, S. Chen, S.S. Wu. "On Outsourcing Artificial Neural Network Learning of Privacy-Sensitive Medical Data to the Cloud." *IEEE International Conference on Tools with Artificial Intelligence (ICTAI)*.
+
 *See the [Publications](/publications/) page for a complete list.*
 
-1. **Your Name**, Collaborator. "Paper Title." *Venue*, Year.
-2. **Your Name**, Collaborator. "Paper Title." *Venue*, Year.
+---
+
+## Contact
+
+- **Office**: MAK D-2-232
+- **Phone**: (616) 331-2048
+- **Email**: melissod@gvsu.edu

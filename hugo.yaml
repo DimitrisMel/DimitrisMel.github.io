@@ -1,39 +1,45 @@
 baseURL: "https://dimitrismel.github.io/"
 languageCode: "en-us"
-title: "Dimitris - Academic Profile"
+title: "Dimitrios Melissourgos, Ph.D."
 theme: "academic"
 
 # Site metadata
 params:
-  author: "Dimitris"  # Replace with your full name
-  description: "Personal academic website showcasing research, publications, and projects."
+  author: "Dimitrios Melissourgos"
+  description: "Assistant Professor of Computer Science at Grand Valley State University. Research in network traffic measurement and privacy-preserving machine learning."
 
   # Profile information (displayed on homepage)
-  role: "Researcher / PhD Candidate"  # Your current position
-  organization: "University Name"  # Your institution
-  avatar: "images/avatar.jpg"  # Profile photo path
+  role: "Assistant Professor of Computer Science"
+  organization: "Grand Valley State University"
+  avatar: "images/avatar.jpg"
 
   # Short bio for homepage
   bio: |
-    I am a researcher specializing in [your field]. My work focuses on
-    [brief description of your research interests and goals].
+    I specialize in two primary research domains: **network traffic measurement** and
+    **privacy-preserving machine learning**. My work on network traffic measurement
+    emphasizes accurate collection of network data using compact data structures called
+    sketches for applications including load balancing and security monitoring. I also
+    develop techniques to safeguard sensitive data during remote neural network training.
+
+    I teach cybersecurity and network management courses at both graduate and undergraduate
+    levels. Outside academia, I enjoy scuba diving, drone flying, travel, spearfishing,
+    and home lab development.
 
   # Research interests (displayed as tags on homepage)
   interests:
-    - Machine Learning
-    - Data Science
-    - Computer Vision
-    - Natural Language Processing
+    - Network Traffic Measurement
+    - Sketch Data Structures
+    - Privacy-Preserving Machine Learning
+    - Load Balancing
+    - Security Monitoring
+    - Quality of Service
 
   # Social links (used in footer)
   social:
-    email: "your.email@example.com"
-    github: "yourusername"
-    linkedin: "yourusername"
-    scholar: "your-google-scholar-id"  # Just the user ID part
-    orcid: "0000-0000-0000-0000"
-    # twitter: "yourusername"
-    # researchgate: "Your-Name"
+    email: "melissod@gvsu.edu"
+    github: "DimitrisMel"
+    scholar: "YrGDER4AAAAJ"
+    orcid: "0000-0002-1040-5779"
 
   # Favicon
   favicon: "/favicon.ico"
