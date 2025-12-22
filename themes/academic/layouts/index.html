@@ -30,7 +30,7 @@
 </section>
 {{ end }}
 
-{{ $publications := where .Site.RegularPages "Section" "publications" }}
+{{ $publications := (where .Site.RegularPages "Section" "publications").ByDate.Reverse }}
 {{ if $publications }}
 <section class="section">
     <h2>Recent Publications</h2>
