@@ -11,6 +11,9 @@
             {{ with .researchgate }}<a href="https://www.researchgate.net/profile/{{ . }}" target="_blank" title="ResearchGate"><i class="fab fa-researchgate"></i></a>{{ end }}
         </div>
         {{ end }}
+        <p class="report-bug">
+            <a href="mailto:melissod@gvsu.edu?subject=Bug%20Report%20-%20Website%20Issue&body=Page%20URL%3A%20%0A%0ADescription%20of%20issue%3A%20" title="Report a bug or broken link"><i class="fas fa-bug"></i> Report a bug or broken link</a>
+        </p>
         <p class="copyright">
             &copy; {{ now.Year }} {{ .Site.Params.author }}. All rights reserved.
         </p>
