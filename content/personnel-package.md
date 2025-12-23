@@ -176,13 +176,23 @@ This publication record demonstrates sustained, high-quality research output at 
 
 **Awarded Funding:**
 
-| Award | Amount | Role | Year |
-|-------|--------|------|------|
-| GVSU Seed Grant (with Sara Sutton) | $15,000 | PI | Fall 2024 |
-| CSCE Dissemination Grant | $800 | PI | 2024 |
-| College of Computing Professional Development Grant | $900 | PI | 2024 |
-| Mini-Grant | $230 | PI | 2024 |
-| CIS 468 Industry Sponsorships | $7,500+ | PI | 2024-2025 |
+<table>
+<thead>
+<tr>
+<th style="width: 45%">Award</th>
+<th style="width: 20%">Amount</th>
+<th style="width: 15%">Role</th>
+<th style="width: 20%">Year</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>GVSU Seed Grant (with Sara Sutton)</td><td>$15,000</td><td>PI</td><td>Fall 2024</td></tr>
+<tr><td>CSCE Dissemination Grant</td><td>$800</td><td>PI</td><td>2024</td></tr>
+<tr><td>College of Computing Professional Development Grant</td><td>$900</td><td>PI</td><td>2024</td></tr>
+<tr><td>Mini-Grant</td><td>$230</td><td>PI</td><td>2024</td></tr>
+<tr><td>CIS 468 Industry Sponsorships</td><td>$7,500+</td><td>PI</td><td>2024-2025</td></tr>
+</tbody>
+</table>
 
 **Grant Proposals Submitted:**
 
@@ -199,14 +209,23 @@ This publication record demonstrates sustained, high-quality research output at 
 
 **Peer Review Service (demonstrating expertise and engagement):**
 
-| Venue | Paper | Year |
-|-------|-------|------|
-| AISTATS 2024 | Conference papers | 2023 |
-| AISTATS 2026 | "Differentially Private Clustering in Data Streams" | 2025 |
-| Springer Nature | "Differential privacy federated learning technology applied to medical data privacy protection" | 2024 |
-| Springer Nature | "Efficient federated learning for pediatric pneumonia on chest X-ray classification" | 2024 |
-| IEEE Trans. Computational Social Systems | "PeriodicPipe: A Hardware-Friendly Sketching Algorithm for Mining Periodic Flows" (2 rounds) | 2024 |
-| IEEE/ACM Trans. Networking | "Counter Pools: Counter Representation for Efficient Stream Processing" (2 rounds) | 2024 |
+<table>
+<thead>
+<tr>
+<th style="width: 35%">Venue</th>
+<th style="width: 50%">Paper</th>
+<th style="width: 15%">Year</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>AISTATS 2024</td><td>Conference papers</td><td>2023</td></tr>
+<tr><td>AISTATS 2026</td><td>"Differentially Private Clustering in Data Streams"</td><td>2025</td></tr>
+<tr><td>Springer Nature</td><td>"Differential privacy federated learning technology applied to medical data privacy protection"</td><td>2024</td></tr>
+<tr><td>Springer Nature</td><td>"Efficient federated learning for pediatric pneumonia on chest X-ray classification"</td><td>2024</td></tr>
+<tr><td>IEEE Trans. Computational Social Systems</td><td>"PeriodicPipe: A Hardware-Friendly Sketching Algorithm for Mining Periodic Flows" (2 rounds)</td><td>2024</td></tr>
+<tr><td>IEEE/ACM Trans. Networking</td><td>"Counter Pools: Counter Representation for Efficient Stream Processing" (2 rounds)</td><td>2024</td></tr>
+</tbody>
+</table>
 
 ### Student Research Supervision (R7)
 
@@ -257,12 +276,21 @@ I have engaged actively in service at the department, college, university, and p
 
 I have been actively involved in multiple faculty hiring processes:
 
-| Year | Candidates Evaluated | Outcomes |
-|------|---------------------|----------|
-| 2023-2024 | Arif Rahman, Sarah Morrison-Smith, Ayan Roy, Haoyu Li | Haoyu Li hired |
-| 2024 | Khandokar Nayem, Taslima Akter, Ali Raza, Austin Ferguson | Ali Raza, Austin Ferguson hired |
-| 2024-2025 | AI track candidates (with Alex Lalejini, Yong Zhuang) | 30+ applications reviewed, Zoom interviews, on-campus interviews |
-| 2025 | Laura Harris evaluation | In progress |
+<table>
+<thead>
+<tr>
+<th style="width: 20%">Year</th>
+<th style="width: 45%">Candidates Evaluated</th>
+<th style="width: 35%">Outcomes</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>2023-2024</td><td>Arif Rahman, Sarah Morrison-Smith, Ayan Roy, Haoyu Li</td><td>Haoyu Li hired</td></tr>
+<tr><td>2024</td><td>Khandokar Nayem, Taslima Akter, Ali Raza, Austin Ferguson</td><td>Ali Raza, Austin Ferguson hired</td></tr>
+<tr><td>2024-2025</td><td>AI track candidates (with Alex Lalejini, Yong Zhuang)</td><td>30+ applications reviewed, Zoom interviews, on-campus interviews</td></tr>
+<tr><td>2025</td><td>Laura Harris evaluation</td><td>In progress</td></tr>
+</tbody>
+</table>
 
 **Accreditation Support:**
 
