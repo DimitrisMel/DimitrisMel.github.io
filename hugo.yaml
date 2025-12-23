@@ -59,6 +59,9 @@ menu:
     - name: "CV"
       url: "/cv/"
       weight: 4
+    - name: "Personnel Package"
+      url: "/personnel-package/"
+      weight: 5
 
 # Markdown rendering
 markup:
