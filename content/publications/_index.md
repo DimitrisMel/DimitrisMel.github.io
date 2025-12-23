@@ -1,4 +1,4 @@
 ---
 title: "Publications"
-description: "A list of my academic publications, including journal articles, conference papers, and preprints."
+description: "For a full publication list, please visit [Google Scholar](https://scholar.google.com/citations?hl=en&user=YrGDER4AAAAJ)"
 ---
