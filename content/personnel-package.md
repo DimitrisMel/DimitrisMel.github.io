@@ -14,7 +14,7 @@ Grand Valley State University
 
 ## Summary
 
-This document presents my case for contract renewal after three years of service at Grand Valley State University (Fall 2022 - Present). Following the College of Computing's Standards and Criteria for Tenure-line Faculty Personnel Evaluation (February 2025), I demonstrate that I meet the criteria for:
+This document presents my case for contract renewal after three years of service at Grand Valley State University (Fall 2023 - Present). Following the College of Computing's Standards and Criteria for Tenure-line Faculty Personnel Evaluation (February 2025), I demonstrate that I meet the criteria for:
 
 - **Teaching: Excellent**
 - **Scholarly and Creative Activity: Excellent**
@@ -42,20 +42,29 @@ My commitment to high-quality instruction is evidenced by:
 
 ### Courses Taught (T3)
 
-| Semester | Course | Details |
-|----------|--------|---------|
-| Fall 2023 | CIS 337 | Network Administration (2 sections) |
-| Fall 2023 | CIS 518 | Graduate Cybersecurity |
-| Winter 2024 | CIS 258 | System Administration (2 sections) |
-| Winter 2024 | CIS 468 | Cybersecurity Capstone |
-| Winter 2024 | CIS 693 | Master's Capstone (1 student: Hemanth Davuluri) |
-| Fall 2024 | CIS 337 | Network Administration (2 sections, 44 students) |
-| Fall 2024 | CIS 468 | Cybersecurity Capstone (9 students, $2,500 from Wolverine Worldwide) |
-| Fall 2024 | CIS 693 | Master's Capstone (2 students: Shruthi Chouhan Mood, Alexander Broughal) |
-| Winter 2025 | CIS 337 | Network Administration (2 sections, 42 students) |
-| Winter 2025 | CIS 468 | Cybersecurity Capstone (15 students, $5,000 from Dematic and Kismet) |
-| Winter 2025 | CIS 693 | Master's Capstone (3 students: Julliet Imelda Alwana, Silverster Mbugua, Vamshi Thume) |
-| Fall 2025 | CIS 418 | Applied Information Security (2 sections, 56 students) |
+<table>
+<thead>
+<tr>
+<th style="width: 25%">Semester</th>
+<th style="width: 20%">Course</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>Fall 2023</td><td>CIS 337</td><td>Network Administration (2 sections)</td></tr>
+<tr><td>Fall 2023</td><td>CIS 518</td><td>Graduate Cybersecurity</td></tr>
+<tr><td>Winter 2024</td><td>CIS 258</td><td>System Administration (2 sections)</td></tr>
+<tr><td>Winter 2024</td><td>CIS 468</td><td>Cybersecurity Capstone</td></tr>
+<tr><td>Winter 2024</td><td>CIS 693</td><td>Master's Capstone (1 student: Hemanth Davuluri)</td></tr>
+<tr><td>Fall 2024</td><td>CIS 337</td><td>Network Administration (2 sections, 44 students)</td></tr>
+<tr><td>Fall 2024</td><td>CIS 468</td><td>Cybersecurity Capstone (9 students, $2,500 from Wolverine Worldwide)</td></tr>
+<tr><td>Fall 2024</td><td>CIS 693</td><td>Master's Capstone (2 students: Shruthi Chouhan Mood, Alexander Broughal)</td></tr>
+<tr><td>Winter 2025</td><td>CIS 337</td><td>Network Administration (2 sections, 42 students)</td></tr>
+<tr><td>Winter 2025</td><td>CIS 468</td><td>Cybersecurity Capstone (15 students, $5,000 from Dematic and Kismet)</td></tr>
+<tr><td>Winter 2025</td><td>CIS 693</td><td>Master's Capstone (3 students: Julliet Imelda Alwana, Silverster Mbugua, Vamshi Thume)</td></tr>
+<tr><td>Fall 2025</td><td>CIS 418</td><td>Applied Information Security (2 sections, 56 students)</td></tr>
+</tbody>
+</table>
 
 This demonstrates delivery of high-quality content across multiple courses at different levels (undergraduate and graduate) and topics (systems administration, networking, cybersecurity).
 
@@ -169,7 +178,7 @@ This publication record demonstrates sustained, high-quality research output at 
 
 | Award | Amount | Role | Year |
 |-------|--------|------|------|
-| GVSU Seed Grant (with Sara Sutton) | $15,000 | Co-PI | Fall 2024 |
+| GVSU Seed Grant (with Sara Sutton) | $15,000 | PI | Fall 2024 |
 | CSCE Dissemination Grant | $800 | PI | 2024 |
 | College of Computing Professional Development Grant | $900 | PI | 2024 |
 | Mini-Grant | $230 | PI | 2024 |
