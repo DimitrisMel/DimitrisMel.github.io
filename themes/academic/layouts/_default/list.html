@@ -1,7 +1,7 @@
 {{ define "main" }}
 <section class="page-header">
     <h1>{{ .Title }}</h1>
-    {{ with .Description }}<p class="description">{{ . }}</p>{{ end }}
+    {{ with .Description }}<p class="description">{{ . | markdownify }}</p>{{ end }}
 </section>
 
 <section class="section">
