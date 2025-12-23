@@ -11,7 +11,11 @@
     <div class="publication-list">
         {{ range .Pages.ByDate.Reverse }}
         <article class="publication-item">
+            {{ if .Params.external_link }}
+            <h3><a href="{{ .Params.external_link }}" target="_blank">{{ .Title }}</a></h3>
+            {{ else }}
             <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+            {{ end }}
             {{ with .Params.authors }}<p class="authors">{{ . }}</p>{{ end }}
             {{ with .Params.venue }}<p class="venue"><em>{{ . }}</em>{{ with $.Params.year }}, {{ . }}{{ end }}</p>{{ end }}
             {{ with .Params.doi }}<p class="doi"><a href="https://doi.org/{{ . }}" target="_blank">DOI: {{ . }}</a></p>{{ end }}
