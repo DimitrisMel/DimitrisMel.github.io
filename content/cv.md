@@ -29,6 +29,8 @@ Computer Engineering and Informatics Department, University of Patras, Greece
 
 ## Publications
 
+- Kanipakam, V., Kirangu, G., Felber, J., Sutton, S. and **Melissourgos, D.**, 2026. Real-Time Sketch-Based Threat Detection for IoT Networks. In *CoNEXT* (Under review).
+
 - Wang, H., Ma, C., **Melissourgos, D.**, Gao, G. and Chen, S., 2025. Towards Guaranteed Accuracy for Flow Spread Measurement with (ε,β)-Nonduplicate Sampling. In *INFOCOM*.
 
 - **Melissourgos, D.**, Wang, H., Chen, S., Ma, C. and Chen, S., 2023. Single update sketch with variable counter structure. *Proceedings of the VLDB Endowment*, 16(13), pp.4296-4309.
