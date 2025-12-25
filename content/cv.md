@@ -6,6 +6,8 @@ title: "Curriculum Vitae"
 
 Allendale, Michigan | (352) 278-6777 | melissod@gvsu.edu | [linkedin.com/in/dimitrios-melissourgos](https://linkedin.com/in/dimitrios-melissourgos)
 
+*January 1, 2026*
+
 ---
 
 ## Summary
