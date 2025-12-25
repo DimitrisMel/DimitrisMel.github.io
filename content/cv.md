@@ -1,12 +1,11 @@
 ---
 title: "Curriculum Vitae"
+date: 2026-01-01
 ---
 
 # Dimitrios Melissourgos, Ph.D.
 
 Allendale, Michigan | (352) 278-6777 | melissod@gvsu.edu | [linkedin.com/in/dimitrios-melissourgos](https://linkedin.com/in/dimitrios-melissourgos)
-
-*January 1, 2026*
 
 ---
 
