@@ -15,24 +15,26 @@ params:
 
   # Short bio for homepage
   bio: |
-    I specialize in two primary research domains: **network traffic measurement** and
-    **privacy-preserving machine learning**. My work on network traffic measurement
-    emphasizes accurate collection of network data using compact data structures called
-    sketches for applications including load balancing and security monitoring. I also
-    develop techniques to safeguard sensitive data during remote neural network training.
+    I conduct research in two primary areas: **network traffic measurement** and
+    **privacy-preserving machine learning**.
+    
+    My work on network traffic measurement emphasizes accurate collection of network data using compact data structures called
+    sketches for applications such as load balancing and security monitoring.
+    
+    My research on machine learning privacy revolves around training artificial neural networks without revealing the underlying data.
+    The main technique used to achieve this is called matrix masking.
 
-    I teach cybersecurity and network management courses at both graduate and undergraduate
-    levels. Outside academia, I enjoy scuba diving, drone flying, travel, spearfishing,
-    and home lab development.
+    I teach mainly cybersecurity and computer networking courses at both graduate and undergraduate
+    levels.
+    
+    Outside academia, I enjoy scuba diving, building and flying drones, travelling, spearfishing, and developing my homelab.
 
   # Research interests (displayed as tags on homepage)
   interests:
     - Network Traffic Measurement
-    - Sketch Data Structures
+    - Sketches
     - Privacy-Preserving Machine Learning
-    - Load Balancing
-    - Security Monitoring
-    - Quality of Service
+    - Matrix Masking
 
   # Social links (used in footer)
   social:
@@ -47,7 +49,7 @@ params:
 # Navigation menu
 menu:
   main:
-    - name: "About"
+    - name: "About Me"
       url: "/"
       weight: 1
     - name: "Publications"
