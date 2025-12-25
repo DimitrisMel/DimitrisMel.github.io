@@ -29,6 +29,10 @@ Computer Engineering and Informatics Department, University of Patras, Greece
 
 ## Publications
 
+- Turki, T., Vanderleest, M. and **Melissourgos, D.**, 2026. Privacy-Preserving Neural Network Training via Matrix Masking: From Tabular Data to Images. *NeurIPS* (Under development).
+
+- Turki, T., Vanderleest, M. and **Melissourgos, D.**, 2026. Privacy-Preserving Image Clustering with Matrix Masking. *AAAI* (Under development).
+
 - Kanipakam, V., Kirangu, G., Felber, J., Sutton, S. and **Melissourgos, D.**, 2026. Real-Time Sketch-Based Threat Detection for IoT Networks. *ACM CoNEXT* (Under review).
 
 - Wang, H., Ma, C., **Melissourgos, D.**, Gao, G. and Chen, S., 2025. Towards Guaranteed Accuracy for Flow Spread Measurement with (ε,β)-Nonduplicate Sampling. *IEEE INFOCOM*.
