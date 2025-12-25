@@ -1,6 +1,5 @@
 ---
 title: "Curriculum Vitae"
-date: 2026-01-01
 ---
 
 # Dimitrios Melissourgos, Ph.D.
