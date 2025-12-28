@@ -65,15 +65,15 @@ Computer Engineering and Informatics Department, University of Patras, Greece
 
 ## Funding
 
-- 2023-2024 Google Cybersecurity Clinics Fund. Role: Co-Investigator (PI: Samah Mansour, Co-PI: Andrew Kalafut), $1,000,000 (not funded)
-- 2024-2025 National Science Foundation (NSF), Computer and Information Science and Engineering Research Initiation Initiative (CRII), Role: PI, $175,000 (not funded). Program cancelled
-- 2024-2025 GVSU Seed Fund, Role: PI (Co-PI: Sara Sutton), $15,000 **(funded)**
-- 2024-2025 GVSU Special Projects Graduate Assistantship Fund (SPGA), Role: PI, $14,000 (not funded)
-- 2024-2025 GVSU CSCE Dissemination Grant, Role: PI, $800 **(funded)**
-- 2024-2025 GVSU CoC Professional Development Grant, Role: PI, $900 **(funded)**
-- 2024-2025 GVSU Mini-grant $230 **(funded)**
-- 2025-2026 GVSU Special Projects Graduate Assistantship Fund (SPGA), Role: PI, $14,000 (pending)
 - 2025-2026 National Science Foundation (NSF), Cybersecurity Innovation for Cyberinfrastructure (CICI), Transition to Cyberinfrastructure Resilience (TCS) program (under development)
+- 2025-2026 GVSU Special Projects Graduate Assistantship Fund (SPGA), Role: PI, $14,000 (pending)
+- 2024-2025 GVSU Mini-grant $230 **(funded)**
+- 2024-2025 GVSU CoC Professional Development Grant, Role: PI, $900 **(funded)**
+- 2024-2025 GVSU CSCE Dissemination Grant, Role: PI, $800 **(funded)**
+- 2024-2025 GVSU Special Projects Graduate Assistantship Fund (SPGA), Role: PI, $14,000 (not funded)
+- 2024-2025 GVSU Seed Fund, Role: PI (Co-PI: Sara Sutton), $15,000 **(funded)**
+- 2024-2025 National Science Foundation (NSF), Computer and Information Science and Engineering Research Initiation Initiative (CRII), Role: PI, $175,000 (not funded). Program cancelled
+- 2023-2024 Google Cybersecurity Clinics Fund. Role: Co-Investigator (PI: Samah Mansour, Co-PI: Andrew Kalafut), $1,000,000 (not funded)
 
 ---
 
