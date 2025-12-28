@@ -23,7 +23,7 @@
                 {{ with .Params.code }}<a href="{{ . }}" class="btn" target="_blank">Source Code</a>{{ end }}
             </div>
         {{ else }}
-            <p class="date">{{ .Date.Format "January 2, 2006" }}</p>
+            {{ if not .Date.IsZero }}<p class="date">{{ .Date.Format "January 2, 2006" }}</p>{{ end }}
         {{ end }}
     </header>
 
