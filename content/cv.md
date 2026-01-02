@@ -35,9 +35,9 @@ Computer Engineering and Informatics Department, University of Patras, Greece
 
 - Kanipakam, V., Kirangu, G., Felber, J., Sutton, S. and **Melissourgos, D.**, 2026. Real-Time Sketch-Based Threat Detection for IoT Networks. *ACM CoNEXT* (Under review).
 
-- Karki, A., Wang, H., Ma, C., **Melissourgos, D.**, Liu, Z. and Chen, S., 2026. (ϵ, β)-nonduplicate Sampling for Flow Spread Measurement with Guaranteed Accuracy. *IEEE Transactions on Networking* (Under review).
-
 - Karki, A., Wang, H., **Melissourgos, D.**, Liu, Z. and Chen, S., 2026. Distributed Non-Duplicate Sampling with Application on Network-wide Flow Cardinality Estimation in High-Speed Networks. *IEEE Transactions on Networking* (Under review).
+
+- Karki, A., Wang, H., Ma, C., **Melissourgos, D.**, Liu, Z. and Chen, S., 2026. (ϵ, β)-nonduplicate Sampling for Flow Spread Measurement with Guaranteed Accuracy. *IEEE Transactions on Networking* (Under review).
 
 - Wang, H., Ma, C., **Melissourgos, D.**, Gao, G. and Chen, S., 2025. Towards Guaranteed Accuracy for Flow Spread Measurement with (ε,β)-Nonduplicate Sampling. *IEEE INFOCOM*.
 
