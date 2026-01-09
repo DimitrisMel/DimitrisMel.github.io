@@ -653,7 +653,7 @@ My goal has always been to publish my work in the most revered journals and conf
 - h-index: 5
 - i10-index: 2
 
-A complete list of my publications and citations can be found on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=YrGDER4AAAAJ) page.
+A complete list of my publications and citations can be found on my <a href="https://scholar.google.com/citations?hl=en&user=YrGDER4AAAAJ" target="_blank">Google Scholar</a> page.
 
 ---
 
