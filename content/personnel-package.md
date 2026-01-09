@@ -907,9 +907,6 @@ I am grateful for the mentorship and support I have received from my colleagues 
 ### Appendix A: Sample Graded Work
 [Include samples demonstrating assessment practices]
 
-### Appendix B: Selected Publications
-[Include copies of significant publications]
-
 ---
 
 *This document was prepared following the new College of Computing Standards and Criteria for Tenure-line Faculty Personnel Evaluation (February 2025 version).*
