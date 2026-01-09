@@ -277,7 +277,31 @@ At student request, I recorded video walkthroughs of all lab activities, effecti
 
 The trajectory of my evaluations—from initial ratings around 3.8-4.1 in my first semester to consistent ratings of 4.1-4.8 in recent semesters—demonstrates my commitment to continuous improvement and responsiveness to student needs.
 
-*See Appendix B for visualization figures (fig1-fig10) illustrating evaluation trends and patterns.*
+#### Evaluation Visualizations
+
+![Figure 1: Overall Ratings Over Time](/images/evaluations/fig1_overall_ratings_over_time.png)
+*Figure 1: Overall Ratings Over Time*
+
+![Figure 2: Instructor Ratings by Semester](/images/evaluations/fig2_instructor_ratings_by_semester.png)
+*Figure 2: Instructor Ratings by Semester*
+
+![Figure 3: Challenge and Engagement Index Over Time](/images/evaluations/fig3_cei_over_time.png)
+*Figure 3: Challenge and Engagement Index Over Time*
+
+![Figure 4: Ratings by Course](/images/evaluations/fig4_ratings_by_course.png)
+*Figure 4: Ratings by Course*
+
+![Figure 5: Response Summary](/images/evaluations/fig5_response_summary.png)
+*Figure 5: Response Summary*
+
+![Figure 6: CIS 337 Trajectory](/images/evaluations/fig7_cis337_trajectory.png)
+*Figure 6: CIS 337 Trajectory*
+
+![Figure 7: Teaching Radar](/images/evaluations/fig8_teaching_radar.png)
+*Figure 7: Teaching Radar*
+
+![Figure 8: CIS 337 Effectiveness Trajectory](/images/evaluations/fig9_cis337_effectiveness_trajectory.png)
+*Figure 8: CIS 337 Effectiveness Trajectory*
 
 #### Peer Evaluation Summary
 
