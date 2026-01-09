@@ -381,7 +381,17 @@ a:hover {
     max-width: 100%;
     height: auto;
     border-radius: 0.5rem;
-    margin: 1.5rem 0;
+    margin: 1.5rem auto;
+    display: block;
+}
+
+/* Figure captions - center italic text that follows images */
+.single-content p > em:only-child {
+    display: block;
+    text-align: center;
+    color: var(--text-muted);
+    font-size: 0.95rem;
+    margin-top: -1rem;
 }
 
 /* Tables */

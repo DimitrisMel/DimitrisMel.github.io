@@ -291,17 +291,14 @@ The trajectory of my evaluations—from initial ratings around 3.8-4.1 in my fir
 ![Figure 4: Ratings by Course](/images/evaluations/fig4_ratings_by_course.png)
 *Figure 4: Ratings by Course*
 
-![Figure 5: Response Summary](/images/evaluations/fig5_response_summary.png)
-*Figure 5: Response Summary*
+![Figure 5: CIS 337 Trajectory](/images/evaluations/fig7_cis337_trajectory.png)
+*Figure 5: CIS 337 Trajectory*
 
-![Figure 6: CIS 337 Trajectory](/images/evaluations/fig7_cis337_trajectory.png)
-*Figure 6: CIS 337 Trajectory*
+![Figure 6: Teaching Radar](/images/evaluations/fig8_teaching_radar.png)
+*Figure 6: Teaching Radar*
 
-![Figure 7: Teaching Radar](/images/evaluations/fig8_teaching_radar.png)
-*Figure 7: Teaching Radar*
-
-![Figure 8: CIS 337 Effectiveness Trajectory](/images/evaluations/fig9_cis337_effectiveness_trajectory.png)
-*Figure 8: CIS 337 Effectiveness Trajectory*
+![Figure 7: CIS 337 Effectiveness Trajectory](/images/evaluations/fig9_cis337_effectiveness_trajectory.png)
+*Figure 7: CIS 337 Effectiveness Trajectory*
 
 #### Peer Evaluation Summary
 
@@ -893,9 +890,6 @@ I am grateful for the mentorship and support I have received from my colleagues 
 
 ### Appendix A: Sample Graded Work
 [Include samples demonstrating assessment practices]
-
-### Appendix B: Student Evaluation Summaries
-[Include LIFT evaluation summaries]
 
 ### Appendix C: Sample Syllabi
 [Include representative course syllabi]
