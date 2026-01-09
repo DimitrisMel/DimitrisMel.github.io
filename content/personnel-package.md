@@ -150,29 +150,29 @@ I have completed three Faculty Course Assessment Reports (FCARs) for my courses,
 
 Since joining GVSU in August 2023, I have taught a total of **21 course sections** across **9 distinct courses**, spanning undergraduate, graduate, and capstone project supervision. The table below provides a comprehensive list of all courses taught during the review period.
 
-| Course Name | Course Number | Term | Year | Section | Enrollment | Notes |
-|-------------|---------------|------|------|---------|------------|-------|
-| Network Systems Management | CIS 337 | Fall | 2023 | 1 | 24 | |
-| Network Systems Management | CIS 337 | Fall | 2023 | 2 | 21 | |
-| Secure Software Engineering | CIS 518 | Fall | 2023 | 1 | 26 | Graduate level |
-| Introduction to Cybersecurity | CIS 258 | Winter | 2024 | 1 | 18 | |
-| Introduction to Cybersecurity | CIS 258 | Winter | 2024 | 2 | 19 | |
-| Cybersecurity Project | CIS 468 | Winter | 2024 | 1 | 13 | Capstone course |
-| Master's Project | CIS 693 | Winter | 2024 | 15 | 1 | Hemanth Davuluri |
-| Network Systems Management | CIS 337 | Fall | 2024 | 1 | 22 | |
-| Network Systems Management | CIS 337 | Fall | 2024 | 2 | 22 | |
-| Cybersecurity Project | CIS 468 | Fall | 2024 | 1 | 9 | $2,500 sponsorship (Wolverine Worldwide) |
-| Master's Project | CIS 693 | Fall | 2024 | 12 | 2 | Shruthi Chouhan Mood, Alexander Broughal |
-| Network Systems Management | CIS 337 | Winter | 2025 | 1 | 18 | |
-| Network Systems Management | CIS 337 | Winter | 2025 | 2 | 24 | |
-| Cybersecurity Project | CIS 468 | Winter | 2025 | 1 | 15 | $5,000 sponsorship (Dematic, Kismet) |
-| Master's Project | CIS 693 | Winter | 2025 | 5 | 3 | Julliet Imelda Alwana, Silverster Mbugua, Vamshi Thume |
-| Secure Software Engineering | CIS 418 | Fall | 2025 | 1 | 35 | |
-| Secure Software Engineering | CIS 418 | Fall | 2025 | 2 | 21 | |
-| Independent Study | CIS 499 | Fall | 2025 | 4 | 1 | Taher Turki |
-| Data Communications | CIS 457 | Winter | 2026 | 2 | 18 | |
-| Data Communications | CIS 457 | Winter | 2026 | 4 | 18 | |
-| Computer Networking | CIS 654 | Winter | 2026 | 1 | 30 | Graduate level, Multi-delivery |
+| Course Name | Course Number | Term | Year | Section | Enrollment | Syllabus |
+|-------------|---------------|------|------|---------|------------|----------|
+| Network Systems Management | CIS 337 | Fall | 2023 | 1 | 24 | [PDF](/docs/syllabi/cis337_fall2023_sec1.pdf) |
+| Network Systems Management | CIS 337 | Fall | 2023 | 2 | 21 | [PDF](/docs/syllabi/cis337_fall2023_sec2.pdf) |
+| Secure Software Engineering | CIS 518 | Fall | 2023 | 1 | 26 | [PDF](/docs/syllabi/cis518_fall2023.pdf) |
+| Introduction to Cybersecurity | CIS 258 | Winter | 2024 | 1 | 18 | [PDF](/docs/syllabi/cis258_winter2024_sec1.pdf) |
+| Introduction to Cybersecurity | CIS 258 | Winter | 2024 | 2 | 19 | [PDF](/docs/syllabi/cis258_winter2024_sec2.pdf) |
+| Cybersecurity Project | CIS 468 | Winter | 2024 | 1 | 13 | [PDF](/docs/syllabi/cis468_winter2024.pdf) |
+| Master's Project | CIS 693 | Winter | 2024 | 15 | 1 | — |
+| Network Systems Management | CIS 337 | Fall | 2024 | 1 | 22 | [PDF](/docs/syllabi/cis337_fall2024_sec1.pdf) |
+| Network Systems Management | CIS 337 | Fall | 2024 | 2 | 22 | [PDF](/docs/syllabi/cis337_fall2024_sec2.pdf) |
+| Cybersecurity Project | CIS 468 | Fall | 2024 | 1 | 9 | [PDF](/docs/syllabi/cis468_fall2024.pdf) |
+| Master's Project | CIS 693 | Fall | 2024 | 12 | 2 | — |
+| Network Systems Management | CIS 337 | Winter | 2025 | 1 | 18 | [PDF](/docs/syllabi/cis337_winter2025_sec1.pdf) |
+| Network Systems Management | CIS 337 | Winter | 2025 | 2 | 24 | [PDF](/docs/syllabi/cis337_winter2025_sec2.pdf) |
+| Cybersecurity Project | CIS 468 | Winter | 2025 | 1 | 15 | [PDF](/docs/syllabi/cis468_winter2025.pdf) |
+| Master's Project | CIS 693 | Winter | 2025 | 5 | 3 | — |
+| Secure Software Engineering | CIS 418 | Fall | 2025 | 1 | 35 | [PDF](/docs/syllabi/cis418_fall2025_sec1.pdf) |
+| Secure Software Engineering | CIS 418 | Fall | 2025 | 2 | 21 | [PDF](/docs/syllabi/cis418_fall2025_sec2.pdf) |
+| Independent Study | CIS 499 | Fall | 2025 | 4 | 1 | — |
+| Data Communications | CIS 457 | Winter | 2026 | 2 | 18 | [PDF](/docs/syllabi/cis457_winter2026_sec2.pdf) |
+| Data Communications | CIS 457 | Winter | 2026 | 4 | 18 | [PDF](/docs/syllabi/cis457_winter2026_sec4.pdf) |
+| Computer Networking | CIS 654 | Winter | 2026 | 1 | 30 | [PDF](/docs/syllabi/cis654_winter2026.pdf) |
 
 **Summary:**
 - **Total Course Sections Taught:** 21
@@ -907,10 +907,7 @@ I am grateful for the mentorship and support I have received from my colleagues 
 ### Appendix A: Sample Graded Work
 [Include samples demonstrating assessment practices]
 
-### Appendix C: Sample Syllabi
-[Include representative course syllabi]
-
-### Appendix D: Selected Publications
+### Appendix B: Selected Publications
 [Include copies of significant publications]
 
 ---
