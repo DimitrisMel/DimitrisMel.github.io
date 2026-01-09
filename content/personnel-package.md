@@ -449,9 +449,28 @@ I serve as faculty advisor to multiple undergraduate students, providing guidanc
 
 ### 2.6 Graded Work Samples (T7)
 
-[Reference to appendix containing samples of graded assignments and projects]
+Below are samples of graded student work demonstrating my assessment practices and feedback quality.
 
-*See Appendix A for sample graded work demonstrating assessment practices and feedback quality.*
+**CIS 258 - Introduction to Cybersecurity:**
+| Sample | Link |
+|--------|------|
+| Graded Assignment | [PDF](/docs/graded-work/cis258_sample.pdf) |
+
+**CIS 337 - Network Systems Management:**
+| Sample | Link |
+|--------|------|
+| Lab 5 Report | [PDF](/docs/graded-work/cis337_lab5_report.pdf) |
+| Lab 6 Report | [PDF](/docs/graded-work/cis337_lab6_report.pdf) |
+| Wireshark Lab IP | [PDF](/docs/graded-work/cis337_wireshark_lab_ip.pdf) |
+| Midterm 1 Review | [PPTX](/docs/graded-work/cis337_midterm1_review.pptx) |
+| Midterm 2 Review | [PPTX](/docs/graded-work/cis337_midterm2_review.pptx) |
+
+**CIS 518 - Secure Software Engineering:**
+| Sample | Link |
+|--------|------|
+| Lab 1 Report (Sample 1) | [PDF](/docs/graded-work/cis518_lab1_report_1.pdf) |
+| Lab 1 Report (Sample 2) | [PDF](/docs/graded-work/cis518_lab1_report_2.pdf) |
+| Lab 1 Report (Sample 3) | [PDF](/docs/graded-work/cis518_lab1_report_3.pdf) |
 
 ---
 
@@ -899,13 +918,6 @@ I have contributed to the university at the department, college, and university 
 I am committed to continued growth as a teacher-scholar at GVSU. In teaching, I will continue refining my courses based on student feedback and expanding my laboratory materials. In research, I will pursue external funding through NSF CICI and other programs, expand my work on IoT security and privacy-preserving machine learning, and involve more students in publishable research. In service, I will continue contributing to governance, strengthening industry partnerships, and engaging in outreach activities.
 
 I am grateful for the mentorship and support I have received from my colleagues in the College of Computing and look forward to continuing my contributions to GVSU's mission of educating students and advancing knowledge in computing.
-
----
-
-## 6. Appendices
-
-### Appendix A: Sample Graded Work
-[Include samples demonstrating assessment practices]
 
 ---
 
