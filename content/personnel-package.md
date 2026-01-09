@@ -631,7 +631,7 @@ Although all of the funding I have been awarded so far is internal, I have submi
 
 I am also developing a proposal for the NSF Cybersecurity Innovation for Cyberinfrastructure (CICI), Transition to Cyberinfrastructure Resilience (TCR) program, as a PI, with Co-PI Sara Sutton. This work is a direct result of the GVSU Seed Fund we received.
 
-*The feedback to my NSF CRII proposal can be found at Appendix H. The rest of my proposals did not receive feedback.*
+*The [panel review of my NSF CRII proposal](/docs/nsf_crii_panel_review.pdf) is available for reference. The rest of my proposals did not receive feedback.*
 
 ---
 
@@ -913,9 +913,6 @@ I am grateful for the mentorship and support I have received from my colleagues 
 ### Appendix D: Selected Publications
 [Include copies of significant publications]
 
-### Appendix E: NSF CRII Proposal Feedback
-[Include feedback received on the NSF CRII proposal]
-
 ---
 
-*This document was prepared following the College of Computing Standards and Criteria for Tenure-line Faculty Personnel Evaluation (February 2025 version).*
+*This document was prepared following the new College of Computing Standards and Criteria for Tenure-line Faculty Personnel Evaluation (February 2025 version).*
