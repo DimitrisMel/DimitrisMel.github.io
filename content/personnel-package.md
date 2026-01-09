@@ -477,9 +477,19 @@ In response to student feedback requesting more interactive activities, I develo
 - **Troubleshooting scenarios:** Students diagnose network problems presented in case study format, developing critical thinking and problem-solving skills.
 - **Calculation exercises:** Students practice subnet calculations, addressing schemes, and other quantitative aspects of networking.
 
-These exercises were developed iteratively based on which topics students found most challenging.
+These exercises were developed iteratively based on which topics students found most challenging. Below are sample in-class exercises I created for CIS 337:
 
-*See Appendix F for sample in-class exercises.*
+| Topic | Exercise | Solution |
+|-------|----------|----------|
+| NAT | [Exercise 1](/docs/exercises/nat_exercise_1.pdf) | [Solution](/docs/exercises/nat_exercise_1_solutions.pdf) |
+| NAT | [Exercise 2](/docs/exercises/nat_exercise_2.pdf) | [Solution](/docs/exercises/nat_exercise_2_solutions.pdf) |
+| NAT | [Exercise 3](/docs/exercises/nat_exercise_3.pdf) | [Solution](/docs/exercises/nat_exercise_3_solutions.pdf) |
+| NAT, ARP, DNS, and Routing | [Exercise 1](/docs/exercises/nat_arp_dns_routing_exercise_1.pdf) | [Solution](/docs/exercises/nat_arp_dns_routing_exercise_1_solutions.pdf) |
+| Network Bandwidth | [Exercise 1](/docs/exercises/network_bandwidth_exercise_1.pdf) | [Solution](/docs/exercises/network_bandwidth_exercise_1_solutions.pdf) |
+| Network Bandwidth | [Exercise 2](/docs/exercises/network_bandwidth_exercise_2.pdf) | [Solution](/docs/exercises/network_bandwidth_exercise_2_solutions.pdf) |
+| Network Bandwidth | [Exercise 3](/docs/exercises/network_bandwidth_exercise_3.pdf) | [Solution](/docs/exercises/network_bandwidth_exercise_3_solutions.pdf) |
+| Subnets | [Exercise 1](/docs/exercises/subnets_exercise_1.pdf) | [Solution](/docs/exercises/subnets_exercise_1_solutions.pdf) |
+| Subnets | [Exercise 2](/docs/exercises/subnets_exercise_2.pdf) | [Solution](/docs/exercises/subnets_exercise_2_solutions.pdf) |
 
 #### Laboratory Assignment Revisions
 
@@ -903,10 +913,7 @@ I am grateful for the mentorship and support I have received from my colleagues 
 ### Appendix D: Selected Publications
 [Include copies of significant publications]
 
-### Appendix E: Sample In-Class Exercises
-[Include sample in-class exercises from CIS 337]
-
-### Appendix F: NSF CRII Proposal Feedback
+### Appendix E: NSF CRII Proposal Feedback
 [Include feedback received on the NSF CRII proposal]
 
 ---
