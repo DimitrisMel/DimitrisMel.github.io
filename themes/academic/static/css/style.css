@@ -384,6 +384,49 @@ a:hover {
     margin: 1.5rem 0;
 }
 
+/* Tables */
+.single-content table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+    font-family: var(--font-sans);
+    font-size: 0.95rem;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    border-radius: 0.5rem;
+    overflow: hidden;
+}
+
+.single-content table thead {
+    background: var(--primary-color);
+    color: white;
+}
+
+.single-content table th {
+    padding: 0.875rem 1rem;
+    text-align: left;
+    font-weight: 600;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    letter-spacing: 0.025em;
+}
+
+.single-content table td {
+    padding: 0.75rem 1rem;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.single-content table tbody tr:nth-child(even) {
+    background: var(--bg-secondary);
+}
+
+.single-content table tbody tr:hover {
+    background: #edf2f7;
+}
+
+.single-content table tbody tr:last-child td {
+    border-bottom: none;
+}
+
 .featured-image {
     margin: 2rem 0;
 }
