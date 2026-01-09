@@ -275,7 +275,7 @@ I made labs more challenging and designed them to require more critical thinking
 **6. Supplementary Learning Materials (CIS 418):**
 At student request, I recorded video walkthroughs of all lab activities, effectively creating a multi-delivery experience. Students found this extremely helpful: *"Even though the professor explains everything in class, the videos on Blackboard helped a lot. If you ever forget anything or get stuck in any matter they help."* — CIS 418, Fall 2025
 
-The trajectory of my evaluations—from initial ratings around 3.8-4.1 in my first semester to consistent ratings of 4.1-4.8 in recent semesters—demonstrates my commitment to continuous improvement and responsiveness to student needs.
+The trajectory of my evaluations—from initial ratings around 3.8-4.1 in my first semester to consistent ratings of 4.1-4.8 in recent semesters—demonstrates my commitment to continuous improvement and responsiveness to student needs. Below are some visualizations of the student ratings.
 
 #### Evaluation Visualizations
 
