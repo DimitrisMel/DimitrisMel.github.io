@@ -501,7 +501,13 @@ The impact of these lab revisions is evident in student feedback:
 - *"The labs were really helpful giving me hands-on experience with what we were doing but the lectures were honestly just as important."* — CIS 337, Winter 2025
 - *"He definitely went above and beyond in teaching certain concepts that I don't think I would've gotten in other networking courses like designing your own network based on tables or a budget. Also including a socket programming project."* — CIS 337, Winter 2025
 
-*See Appendix G for sample laboratory assignments created for CIS 337.*
+Below are sample laboratory assignments I created for CIS 337:
+
+| Lab | Assignment | Solution |
+|-----|------------|----------|
+| Lab 7: NAT, ARP, DNS, and Routing | [Assignment](/docs/labs/lab7_nat_arp_dns_routing.docx) | [Solution](/docs/labs/lab7_nat_arp_dns_routing_answers.docx) |
+| Lab 8: Subnets | [Assignment](/docs/labs/lab8_subnets.doc) | [Solution](/docs/labs/lab8_subnets_answers.doc) |
+| Lab 9: Network Design | [Assignment](/docs/labs/lab9_network_design.docx) | [Solution](/docs/labs/lab9_network_design_answers.docx) |
 
 #### Impact of Revisions
 
@@ -900,10 +906,7 @@ I am grateful for the mentorship and support I have received from my colleagues 
 ### Appendix E: Sample In-Class Exercises
 [Include sample in-class exercises from CIS 337]
 
-### Appendix F: Sample Laboratory Assignments
-[Include sample laboratory assignments created for CIS 337]
-
-### Appendix G: NSF CRII Proposal Feedback
+### Appendix F: NSF CRII Proposal Feedback
 [Include feedback received on the NSF CRII proposal]
 
 ---
