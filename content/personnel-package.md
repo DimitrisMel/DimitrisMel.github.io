@@ -49,6 +49,9 @@ The following sections provide detailed evidence supporting my qualifications fo
 
 ### 2.1 Teaching Statement (T1)
 
+> *"Teaching should be such that what is offered is perceived as a valuable gift and not as a hard duty."*
+> — Albert Einstein
+
 #### Teaching Philosophy and Objectives
 
 My teaching philosophy centers on the belief that students learn best through hands-on, practical experiences that connect theoretical concepts to real-world applications. Having transitioned from a Teaching Assistant role during my Ph.D. to managing my own courses at GVSU, I have developed a teaching approach grounded in three core principles: accessibility, engagement, and continuous improvement.
