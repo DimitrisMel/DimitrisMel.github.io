@@ -578,6 +578,7 @@ I aim to grow my research group, involving more GVSU students in publishable res
 | GVSU | Mini-grant | PI | $230 | 2024-2025 |
 
 **Total Funding:** $16,930
+
 Although all of the funding I have been awarded so far is internal, I have submitted two external proposals and currently preparing another one, as shown in the next section below:
 
 ---
