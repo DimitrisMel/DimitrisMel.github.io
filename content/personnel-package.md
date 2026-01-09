@@ -19,30 +19,27 @@ This document presents my case for contract renewal as part of my three-year rev
 
 During my time at GVSU, I have worked to establish myself as an effective teacher-scholar who contributes meaningfully to the College and University community. My efforts have focused on delivering high-quality instruction in computer networking and cybersecurity, building an active research program with student involvement, and engaging in service at multiple levels of the institution.
 
-According to the new College of Computing Standards and Criteria for Tenure-line Faculty Personnel Evaluation, contract renewal requires demonstrating that I am on a trajectory toward tenure by being excellent in at least one of teaching or scholarly activity, at least accomplished in the other, and at least competent in service. I believe my record demonstrates that I am on track to achieve:
+According to the new College of Computing Standards and Criteria for Tenure-line Faculty Personnel Evaluation, contract renewal requires demonstrating that I am on a trajectory toward tenure by being excellent in at least one of teaching or scholarly activity, at least accomplished in the other, and at least competent in service. I believe my record demonstrates that I am on track to be:
 
-**Excellent in Teaching:**
-I have taught 21 course sections across 9 distinct courses, receiving very positive student and faculty comments. I have developed extensive course materials and laboratory exercises, supervised 6 Master's Project students and 37 undergraduate capstone students, and demonstrated continuous improvement in response to student feedback. More specifically, I have demonstrated the following:
+**Excellent in Teaching**
 
-- **Strong demonstrated interest and proven ability in high-quality and best practices in computing instruction and curriculum/laboratory development** (as exhibited through evidence T1, T3, T4, T5, T6, T7, and T8 below)
-- **Delivery of high-quality content in multiple courses at different levels and/or topics and considering the effort related to courses preparation** (as exhibited through evidence T3, T4, T5, T7, and T8 below)
-- **Consistently received positive student evaluations/feedback and peer evaluations** (as exhibited through evidence T3, T4, and T7, below)
-- **Recognized of providing a high-quality mentorship for undergraduate and/or graduate students in capstone projects, directed study, projects, or theses/dissertations** (as exhibited through evidence T6, below)
+- Strong demonstrated interest and proven ability in high-quality and best practices in computing instruction and curriculum/laboratory development (as exhibited through evidence T1, T3, T4, T5, T6, T7, and T8 below)
+- Delivery of high-quality content in multiple courses at different levels and/or topics and considering the effort related to courses preparation (as exhibited through evidence T3, T4, T5, T7, and T8 below)
+- Consistently received positive student evaluations/feedback and peer evaluations (as exhibited through evidence T3, T4, and T7, below)
+- Recognized of providing a high-quality mentorship for undergraduate and/or graduate students in capstone projects, directed study, projects, or theses/dissertations (as exhibited through evidence T6, below)
 
-**Excellent in Scholarly and Creative Activity:**
-I have published in top-tier venues including VLDB, SIGMETRICS, INFOCOM, and Transactions on Networking. I have secured $16,930 in internal funding, submitted external proposals to NSF and Google, and am developing an NSF CICI proposal. I have actively involved 7 GVSU students in research, with all of them co-authoring papers under development or review. More specifically, I have demonstrated the following:
+**Excellent in Scholarly and Creative Activity**
 
-- **Significant contribution to sustained and clearly established research plans** (as exhibited through evidence R1, R2, R3, R4, R6, and R7 below)
-- **Publish the research findings in appropriate/reputable peer-reviewed venues recognized by peers to build a sound professional reputation** (as exhibited through evidence R4 and R6 below)
-- **High-quality supervision of graduate and/or undergraduate research students including publications with the students as co-authors** (as exhibited through evidence R7 below)
-- **Submission of quality research proposals for federal/state government grants, corporate grants, and/or corporate foundation grants** (as exhibited through evidence R3 below)
+- Significant contribution to sustained and clearly established research plans (as exhibited through evidence R1, R2, R3, R4, R6, and R7 below)
+- Publish the research findings in appropriate/reputable peer-reviewed venues recognized by peers to build a sound professional reputation (as exhibited through evidence R4 and R6 below)
+- High-quality supervision of graduate and/or undergraduate research students including publications with the students as co-authors (as exhibited through evidence R7 below)
+- Submission of quality research proposals for federal/state government grants, corporate grants, and/or corporate foundation grants (as exhibited through evidence R3 below)
 
-**Accomplished in Service:**
-I have served and continue to serve on committees at the department, college, and university levels, including the Faculty Search Committee, Ph.D. Proposal Committee, Awards Committee, Faculty Grievance Committee, and others. I contribute to the profession through peer review for top venues and I have served as a VLDB Area Chair. I engage with the community through K-12 outreach, industry partnerships, and advisory board membership. More specifically, I have demonstrated the following:
+**Accomplished in Service**
 
-- **Recognition for contributing to the academic/professional community through responsibilities such as journal editorships, conference program/organization committee memberships, grant proposal review panels,K-12 outreach, panels in the community related to education/tech, and other professional society organizers** (as exhibited through evidence S1, S2, S3, S4, S5, S6, S7, S9, S10, and S11 below)
-- **Service on taskforces/committees, and participation and engagement in Department, College and/or University wide meetings and events and community/K-12 outreach** (as exhibited through evidence S1, S2, S3, and S11 below)
-- **Involvement in student services such as supervising, recruiting, and/or other activities** (as exhibited through evidence S3, S4 and S5 below)
+- Recognition for contributing to the academic/professional community through responsibilities such as journal editorships, conference program/organization committee memberships, grant proposal review panels,K-12 outreach, panels in the community related to education/tech, and other professional society organizers (as exhibited through evidence S1, S2, S3, S4, S5, S6, S7, S9, S10, and S11 below)
+- Service on taskforces/committees, and participation and engagement in Department, College and/or University wide meetings and events and community/K-12 outreach (as exhibited through evidence S1, S2, S3, and S11 below)
+- Involvement in student services such as supervising, recruiting, and/or other activities (as exhibited through evidence S3, S4 and S5 below)
 
 The following sections provide detailed evidence supporting my qualifications for contract renewal.
 
