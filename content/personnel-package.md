@@ -4,11 +4,11 @@ title: "Personnel Package"
 
 # Contract Renewal Application
 
-**Candidate:** Dimitrios Melissourgos
-**Position:** Assistant Professor, College of Computing, Department of Computer Science
-**Institution:** Grand Valley State University
-**Review Type:** Contract Renewal
-**Review Period:** August 2023 - May 2026
+**Candidate:** Dimitrios Melissourgos<br>
+**Position:** Assistant Professor, College of Computing, Department of Computer Science<br>
+**Institution:** Grand Valley State University<br>
+**Review Type:** Contract Renewal<br>
+**Review Period:** August 2023 - May 2026<br>
 **Policy:** New Policy of Faculty Personnel Evaluation
 
 ---
