@@ -742,13 +742,13 @@ In summary, my service contributions reflect my commitment to being a collegial 
 ### 4.2 University Service (S2)
 
 #### Department-Level Service
-| Committee/Role | Position | Period | Meeting Frequency |
+| Committee | Position | Period | Meeting Frequency |
 |---------------|----------|--------|-------------------|
 | Personnel Policy Task Force | Member | 2025 - 2026 | As requested |
 | Undergraduate Academic Affairs Committee (UAAC) | Member | 2025 - 2026 | As requested |
 
 #### College-Level Service
-| Committee/Role | Position | Period | Meeting Frequency |
+| Committee | Position | Period | Meeting Frequency |
 |---------------|----------|--------|-------------------|
 | Ph.D. Proposal Committee | Member | 2025-present | As requested |
 | Research Committee | Member | 2025-2026 | As requested |
@@ -756,7 +756,7 @@ In summary, my service contributions reflect my commitment to being a collegial 
 | Faculty Search Committee (AI track) | Member | 2025 | 2 times per week |
 
 #### University-Level Service
-| Committee/Role | Position | Period | Meeting Frequency |
+| Committee | Position | Period | Meeting Frequency |
 |---------------|----------|--------|-------------------|
 | Faculty Grievance Committee | Member | 2024-2026 | As requested |
 | Commencement Speaker Selection Committee | Member | 2024-2025 | 3-4 times per semester |
