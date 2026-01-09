@@ -15,17 +15,17 @@ title: "Personnel Package"
 
 ## 1. Introduction
 
-I joined GVSU in August 2023, and this document presents my case for contract renewal as part of my review.
+This document presents my case for contract renewal as part of my three-year review.
 
 During my time at GVSU, I have worked to establish myself as an effective teacher-scholar who contributes meaningfully to the College and University community. My efforts have focused on delivering high-quality instruction in computer networking and cybersecurity, building an active research program with student involvement, and engaging in service at multiple levels of the institution.
 
 According to the new College of Computing Standards and Criteria for Tenure-line Faculty Personnel Evaluation, contract renewal requires demonstrating that I am on a trajectory toward tenure by being excellent in at least one of teaching or scholarly activity, at least accomplished in the other, and at least competent in service. I believe my record demonstrates that I am on track to achieve:
 
-- **Excellence in Teaching:** I have taught 21 course sections across 9 distinct courses, achieving an average Overall Summative Rating of 4.18/5.0 and Instructor Effectiveness of 4.28/5.0. I have developed extensive course materials and laboratory exercises, supervised 6 Master's Project students and 37 undergraduate capstone students, and demonstrated continuous improvement in response to student feedback.
+**Excellence in Teaching:** I have taught 21 course sections across 9 distinct courses, achieving an average Overall Summative Rating of 4.18/5.0 and Instructor Effectiveness of 4.28/5.0. I have developed extensive course materials and laboratory exercises, supervised 6 Master's Project students and 37 undergraduate capstone students, and demonstrated continuous improvement in response to student feedback.
 
-- **Excellence in Scholarly and Creative Activity:** I have published in top-tier venues including VLDB, SIGMETRICS, IEEE INFOCOM, and IEEE/ACM Transactions on Networking. I have secured $16,930 in internal funding, submitted external proposals to NSF and Google, and am developing an NSF CICI proposal. I have actively involved 7 GVSU students in research, with 5 already co-authoring papers under development or review.
+**Excellence in Scholarly and Creative Activity:** I have published in top-tier venues including VLDB, SIGMETRICS, IEEE INFOCOM, and IEEE/ACM Transactions on Networking. I have secured $16,930 in internal funding, submitted external proposals to NSF and Google, and am developing an NSF CICI proposal. I have actively involved 7 GVSU students in research, with 5 already co-authoring papers under development or review.
 
-- **Accomplished Service:** I serve on committees at the department, college, and university levels, including the Faculty Search Committee, Research Committee, and Faculty Grievance Committee. I contribute to the profession through peer review for top venues and service as a VLDB Area Chair. I engage with the community through K-12 outreach, industry partnerships, and advisory board membership.
+**Accomplished Service:** I serve on committees at the department, college, and university levels, including the Faculty Search Committee, Research Committee, and Faculty Grievance Committee. I contribute to the profession through peer review for top venues and service as a VLDB Area Chair. I engage with the community through K-12 outreach, industry partnerships, and advisory board membership.
 
 The following sections provide detailed evidence supporting my qualifications for contract renewal.
 
