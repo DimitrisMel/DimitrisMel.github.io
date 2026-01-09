@@ -897,16 +897,13 @@ I am grateful for the mentorship and support I have received from my colleagues 
 ### Appendix D: Selected Publications
 [Include copies of significant publications]
 
-### Appendix E: Letters of Support
-[If applicable]
-
-### Appendix F: Sample In-Class Exercises
+### Appendix E: Sample In-Class Exercises
 [Include sample in-class exercises from CIS 337]
 
-### Appendix G: Sample Laboratory Assignments
+### Appendix F: Sample Laboratory Assignments
 [Include sample laboratory assignments created for CIS 337]
 
-### Appendix H: NSF CRII Proposal Feedback
+### Appendix G: NSF CRII Proposal Feedback
 [Include feedback received on the NSF CRII proposal]
 
 ---
