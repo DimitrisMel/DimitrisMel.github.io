@@ -449,7 +449,7 @@ I serve as faculty advisor to multiple undergraduate students, providing guidanc
 
 ### 2.6 Graded Work Samples (T7)
 
-Below are samples of graded student work demonstrating my assessment practices and feedback quality.
+Below are samples of graded student work demonstrating my assessment practices and feedback quality. The midterms and final exams are taken on Blackboard, therefore, they are auto-graded. However, I have included the midterm review presentations below. I go over all the questions after each exam to make sure that I answer all the student questions and explain topics that students found challenging (I show the percentage of the students that answered correctly for every question).
 
 **CIS 258 - Introduction to Cybersecurity:**
 | Sample | Link |
