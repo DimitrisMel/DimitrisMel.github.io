@@ -13,6 +13,40 @@ title: "Personnel Package"
 
 ---
 
+## Contents
+
+1. [Introduction](#1-introduction)
+2. [Teaching Effectiveness](#2-teaching-effectiveness)
+   - [2.1 Teaching Statement (T1)](#21-teaching-statement-t1)
+   - [2.2 Courses Taught (T3)](#22-courses-taught-t3)
+   - [2.3 Student and Peer Evaluations (T4)](#23-student-and-peer-evaluations-t4)
+   - [2.4 Curriculum and Laboratory Development (T5)](#24-curriculum-and-laboratory-development-t5)
+   - [2.5 Student Supervision (T6)](#25-student-supervision-t6)
+   - [2.6 Graded Work Samples (T7)](#26-graded-work-samples-t7)
+   - [2.7 Course Revisions (T8)](#27-course-revisions-t8)
+3. [Scholarly and Creative Activity](#3-scholarly-and-creative-activity)
+   - [3.1 Research Statement (R1)](#31-research-statement-r1)
+   - [3.2 Awarded Research Funding (R2)](#32-awarded-research-funding-r2)
+   - [3.3 Submitted Proposals (R3)](#33-submitted-proposals-r3)
+   - [3.4 Publications (R4)](#34-publications-r4)
+   - [3.5 Citations (R6)](#35-citations-r6)
+   - [3.6 Student Research Supervision (R7)](#36-student-research-supervision-r7)
+4. [Service](#4-service)
+   - [4.1 Service Statement (S1)](#41-service-statement-s1)
+   - [4.2 University Service (S2)](#42-university-service-s2)
+   - [4.3 Community Service (S3)](#43-community-service-s3)
+   - [4.4 Student Organization Advising (S4)](#44-student-organization-advising-s4)
+   - [4.5 University Advancement (S5)](#45-university-advancement-s5)
+   - [4.6 Technical Services (S6)](#46-technical-services-s6)
+   - [4.7 Professional Association Engagement (S7)](#47-professional-association-engagement-s7)
+   - [4.8 Reviewer Activities (S9)](#48-reviewer-activities-s9)
+   - [4.9 Editorial and Conference Roles (S10)](#49-editorial-and-conference-roles-s10)
+   - [4.10 Departmental Support (S11)](#410-departmental-support-s11)
+5. [Conclusion](#5-conclusion)
+- [Appendix: Annual Merit Reviews](#appendix-annual-merit-reviews)
+
+---
+
 ## 1. Introduction
 
 This document presents my case for contract renewal as part of my three-year review. My annual merit reviews from 2024 and 2025, which provide administrative evaluations of my performance across teaching, research, and service, are included in [Appendix](#appendix-annual-merit-reviews).
