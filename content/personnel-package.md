@@ -942,3 +942,14 @@ The following documents are my annual merit reviews, which provide administrativ
 |-------------|----------|
 | 2024 Annual Merit Review | [PDF](/docs/salary-reviews/annual_merit_review_2024.pdf) |
 | 2025 Annual Merit Review | [PDF](/docs/salary-reviews/annual_merit_review_2025.pdf) |
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    document.querySelectorAll('a').forEach(function(link) {
+        if (!link.getAttribute('target')) {
+            link.setAttribute('target', '_blank');
+            link.setAttribute('rel', 'noopener noreferrer');
+        }
+    });
+});
+</script>
