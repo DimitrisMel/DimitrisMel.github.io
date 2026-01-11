@@ -177,7 +177,7 @@ Since joining GVSU in August 2023, I have taught a total of **21 course sections
 **Summary:**
 - **Total Course Sections Taught:** 21
 - **Distinct Courses:** 9 (CIS 258, CIS 337, CIS 418, CIS 457, CIS 468, CIS 499, CIS 518, CIS 654, CIS 693)
-- **Course Levels:** Undergraduate (200-400 level), Graduate (500/600 level)
+- **Course Levels:** Undergraduate (200/300/400 level), Graduate (500/600 level)
 - **Industry Sponsorships Secured for CIS 468:** $10,000 total
 
 ---
