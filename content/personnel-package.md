@@ -329,7 +329,7 @@ Laboratory instruction is central to my teaching philosophy, and I have develope
 CIS 337 requires 2 hours of lab work every week, and I have created numerous labs from scratch to ensure they directly correlate with lecture content while being interesting and challenging. My lab development for CIS 337 includes:
 
 - **Wireshark packet analysis labs:** Students capture and analyze network traffic to understand protocols in action
-- **Network design exercises:** Students design networks based on requirements, constraints, and budgets—skills directly applicable to industry positions
+- **Network design exercises:** Students design networks based on requirements, constraints, and budgets, skills directly applicable to industry positions
 - **Socket programming project:** A hands-on programming assignment that reinforces understanding of network communication
 - **Protocol-specific labs:** Labs covering DNS, DHCP, routing, VLANs, and other networking concepts
 
@@ -491,7 +491,7 @@ When I first taught CIS 337 in Fall 2023, I inherited the publisher's slide deck
 
 In response to student feedback requesting more interactive activities, I developed a series of in-class exercises designed to reinforce lecture concepts and encourage active learning:
 
-- **Network design exercises:** Students design networks based on given requirements, constraints, and budgets; a skill directly applicable to industry positions.
+- **Network design exercises:** Students design networks based on given requirements, constraints, and budgets, a skill directly applicable to industry positions.
 - **Protocol analysis activities:** Students analyze packet captures and protocol behavior to understand how theoretical concepts manifest in practice.
 - **Troubleshooting scenarios:** Students diagnose network problems presented in case study format, developing critical thinking and problem-solving skills.
 - **Calculation exercises:** Students practice subnet calculations, addressing schemes, and other quantitative aspects of networking.
@@ -553,10 +553,10 @@ The cumulative effect of these revisions is reflected in my improving evaluation
 My research focuses on computer networking and privacy-preserving machine learning. My work addresses fundamental challenges in how we measure, monitor, and secure network traffic at scale, as well as how we can perform machine learning training while protecting sensitive data. My research agenda is organized around the following two themes:
 
 **1. Network Traffic Measurement and Data Streaming Algorithms:**
-My primary research area involves developing efficient algorithms and data structures (known as "sketches") for measuring network traffic in real time. Networks generate massive volumes of data that cannot be stored or processed using traditional methods. My work develops compact, probabilistic data structures that can answer important queries—such as detecting anomalies, measuring flow spreads, and identifying security threats—using minimal memory and processing time. This research has resulted in publications at top venues including VLDB, SIGMETRICS (POMACS), IEEE INFOCOM, and Transactions on Networking.
+My primary research area involves developing efficient algorithms and data structures (known as "sketches") for measuring network traffic in real time. Networks generate massive volumes of data that cannot be stored or processed using traditional methods. My work develops compact, probabilistic data structures that can answer important queries (such as detecting anomalies, measuring flow spreads, and identifying security threats) using minimal memory and processing time. This research has resulted in publications at top venues including VLDB, SIGMETRICS (POMACS), IEEE INFOCOM, and Transactions on Networking.
 
 **2. Privacy-Preserving Machine Learning:**
-My second research thrust addresses the challenge of training machine learning models on sensitive data. In healthcare and other domains, data owners cannot share raw data due to privacy regulations. My work develops techniques that allow neural networks to be trained on encrypted or masked data, enabling cloud-based machine learning while preserving data confidentiality. This research began during my Ph.D. with publications at ICTAI and IC3, and has expanded at GVSU to include new work on matrix masking techniques for images, targeting venues such as NeurIPS and AAAI.
+My second research thrust addresses the challenge of training machine learning models on sensitive data. In healthcare and other domains, data owners cannot share raw data due to privacy regulations. My work develops techniques that allow neural networks to be trained on obfuscated data, enabling cloud-based machine learning while preserving data confidentiality. This research began during my Ph.D. with publications at ICTAI and IC3, and has expanded at GVSU to include new work on matrix masking techniques for images, targeting venues such as NeurIPS and AAAI.
 
 #### Chronicle of Scholarly Activities
 
@@ -566,13 +566,13 @@ My scholarly journey at GVSU builds upon the research foundation I established d
 Upon joining GVSU, I continued collaborating with my Ph.D. colleagues on several ongoing projects. This resulted in a publication at IEEE INFOCOM 2025 on flow spread measurement, and two papers currently under review at IEEE Transactions on Networking. I also supervised a graduate research assistant working on a journal extension of our SIGMETRICS 2023 paper on real-time spread burst detection.
 
 **Establishing Independent Research at GVSU (2024-2025):**
-In my second year, I began developing my independent research program at GVSU. I secured $15,000 in Seed Fund support (with Co-PI Sara Sutton) for a project on "Real-Time Network Packet Detection for Enhanced Security in Fog Computing." This project has engaged three graduate research assistants and has resulted in a paper currently under review at ACM CoNEXT.
+In my second year, I began developing my independent research program at GVSU. I secured $15,000 in Seed Fund support (with Co-PI Sara Sutton) for a project on "Real-Time Network Packet Detection for Enhanced Security in Fog Computing." This project has engaged three research assistants and has resulted in a paper currently under review at ACM CoNEXT.
 
 **Expanding Research Directions (2025-2026):**
 I have expanded my research to include privacy-preserving machine learning for images, building on my earlier work on medical data privacy. Working with undergraduate student Taher Turki and graduate student Morgan Vanderleest, we are developing two papers targeting NeurIPS and AAAI on matrix masking techniques for neural network training.
 
 **Grant Activity:**
-I have actively pursued external funding. I submitted a proposal to the NSF CRII program ($175,000), which was not funded due to the program's cancellation. I collaborated on a $1,000,000 proposal to Google's Cybersecurity Clinics Fund. I am currently developing a proposal for the NSF CICI program, building directly on my Seed Fund research.
+I have actively pursued external funding. I submitted a proposal to the NSF CRII program ($175,000) and I collaborated on a $1,000,000 proposal to Google's Cybersecurity Clinics Fund. I am currently developing a proposal for the NSF CICI program, building directly on my Seed Fund research.
 
 #### Publication Venues
 
@@ -583,9 +583,9 @@ I have consistently targeted the most prestigious venues in my research areas:
 - **IEEE Transactions on Network Science and Engineering:** A respected IEEE journal covering network science.
 
 **Top-Tier Conferences:**
-- **VLDB (Very Large Data Bases):** One of the top three database conferences, with an acceptance rate of approximately 20%. I published a first-author paper in 2023.
-- **SIGMETRICS/POMACS:** The top venue for performance evaluation and measurement, with an acceptance rate of approximately 15%. I have one publication from 2023.
-- **IEEE INFOCOM:** The premier conference in computer networking, with an acceptance rate of approximately 19%. I have one publication from 2025.
+- **VLDB (Very Large Data Bases):** One of the top database conferences. I published a first-author paper in 2023.
+- **SIGMETRICS/POMACS:** The top venue for performance evaluation and measurement. I have one publication from 2023.
+- **IEEE INFOCOM:** The premier conference in computer networking. I have one publication from 2025.
 - **ACM CoNEXT:** A prestigious networking conference. I have one paper under review.
 
 **Other Venues:**
@@ -593,7 +593,7 @@ My earlier work appeared at IEEE ICTAI, IEEE CLOUD, and various other IEEE and A
 
 #### Reflections on Development as Teacher-Scholar
 
-My research and teaching are deeply interconnected. The courses I teach—CIS 337 (Network Systems Management), CIS 418 and CIS 518 (Secure Software Engineering), and CIS 457 and CIS 654 (Data Communications/Computer Networking)—directly relate to my research in network measurement and security.
+My research and teaching are deeply interconnected. The courses I teach, CIS 337 (Network Systems Management), CIS 418 and CIS 518 (Secure Software Engineering), and CIS 457 and CIS 654 (Data Communications/Computer Networking), directly relate to my research in network measurement and security.
 
 This connection manifests in several ways:
 
@@ -611,7 +611,7 @@ I have actively involved GVSU students in my research program. Seven students ha
 My research agenda for the coming years focuses on three priorities:
 
 **1. Securing External Funding:**
-I am developing a proposal for the NSF CICI program based on my Seed Fund research. I will continue pursuing NSF and other federal funding opportunities to support graduate students and expand my research program.
+I am developing a proposal for the NSF CICI program based on my Seed Fund research. I will continue pursuing NSF and other external funding opportunities to support graduate students and expand my research program.
 
 **2. Expanding IoT Security Research:**
 I plan to extend my sketch-based threat detection work to additional IoT contexts, including smart infrastructure and industrial control systems. This research has strong potential for industry collaboration and practical impact.
@@ -783,9 +783,9 @@ I maintain active membership in IEEE and ACM, the premier professional organizat
 
 #### Community Engagement
 
-I am committed to outreach activities that promote computing education and connect the university with the broader community. I serve on the advisory board of the Careerline Tech Center, providing guidance on program improvement and strategic planning. I have represented GVSU at the Careerline Tech Center twice (2024 and 2025), presenting to high school students about opportunities in computing.
+I am committed to outreach activities that promote computing education and connect the university with the broader community. I serve on the advisory board of the Careerline Tech Center, providing guidance on program improvement and strategic planning. I have represented GVSU at the Careerline Tech Center twice (2024 and 2025), presenting to high school students about opportunities in computing at GVSU.
 
-I have participated in the GrrCon cybersecurity conference, representing the College of Computing alongside colleagues. Through the Future PREP'd program, I mentored three high school students on professional development and college preparation. I have also presented my research at Innovation Day and the Graduate Student Engagement event, and served as a moderator for the "Current State and Future of Cybersecurity" panel at Innovation Day 2025.
+I have participated in the GrrCon cybersecurity conference, representing the College of Computing alongside colleagues. Through the Future PREP'd program, I mentored three high school students on professional development and college preparation. I have also presented my research at Innovation Day and the Graduate Student Engagement event, and served as a moderator for the "Current State and Future of Cybersecurity" panel at Innovation Day in April 2025.
 
 #### Industry Connections
 
@@ -909,7 +909,7 @@ This document presents evidence that I am on a strong trajectory toward tenure a
 In my first two and a half years at GVSU, I have taught 21 course sections across 9 distinct courses, achieving an average Overall Summative Rating of 4.18/5.0 and Instructor Effectiveness of 4.28/5.0. My trajectory shows measurable improvement: my CIS 337 Instructor Effectiveness ratings have increased from 4.0/5.0 in Fall 2023 to 4.4/5.0 in Winter 2025. I have developed extensive course materials and laboratory exercises, supervised 6 Master's Project students and 37 undergraduate capstone students, and secured $10,000 in industry sponsorships for CIS 468. Student feedback consistently highlights my expertise, enthusiasm, and ability to explain complex concepts in multiple ways.
 
 **Excellence in Scholarly and Creative Activity:**
-My publication record demonstrates sustained productivity in top-tier venues. I have published at VLDB, SIGMETRICS (POMACS), IEEE INFOCOM, and IEEE/ACM Transactions on Networking—the most prestigious venues in computer networking and data management. I currently have three papers under review at Transactions on Networking and ACM CoNEXT, with two additional papers under development targeting NeurIPS and AAAI. I have secured $16,930 in internal funding and submitted proposals to NSF and Google, with an NSF CICI proposal currently in development. Importantly, I have actively involved 7 GVSU students in my research, with 5 already co-authoring papers under development or review.
+My publication record demonstrates sustained productivity in top-tier venues. I have published at VLDB, SIGMETRICS (POMACS), IEEE INFOCOM, and IEEE/ACM Transactions on Networking, the most prestigious venues in computer networking and data management. I currently have three papers under review at Transactions on Networking and ACM CoNEXT, with two additional papers under development targeting NeurIPS and AAAI. I have secured $16,930 in internal funding and submitted proposals to NSF and Google, with an NSF CICI proposal currently in development. Importantly, I have actively involved 7 GVSU students in my research, with 5 already co-authoring papers under development or review.
 
 **Accomplished Service:**
 I have contributed to the university at the department, college, and university levels through committee work including the Faculty Search Committee, Research Committee, Ph.D. Proposal Committee, Faculty Grievance Committee, Commencement Speaker Selection Committee, and others. I contribute to the profession through peer review for top venues and served as a VLDB Area Chair. My community engagement includes K-12 outreach at the Careerline Tech Center, advisory board membership, participation in GrrCon, and mentorship through Future PREP'd.
