@@ -300,9 +300,14 @@ The trajectory of my evaluations, from initial ratings around 3.8-4.1 in my firs
 ![Figure 7: CIS 337 Effectiveness Trajectory](/images/evaluations/fig9_cis337_effectiveness_trajectory.png)
 *Figure 7: CIS 337 Effectiveness Trajectory*
 
-#### Peer Evaluation Summary
+#### Class Visit Reports
 
-The class visit reports will be provided by the department. Nevertheless, in my interaction with the reviewers after their class visits, I received very positive comments.
+The following class visit reports document peer observations of my teaching:
+
+| Report Type | Document |
+|-------------|----------|
+| In-Person Class Visits | [PDF](/docs/class-visits/in_person_visits.pdf) |
+| Online Class Visits | [PDF](/docs/class-visits/online_visits.pdf) |
 
 ---
 
