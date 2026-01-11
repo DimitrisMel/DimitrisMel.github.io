@@ -15,7 +15,7 @@ title: "Personnel Package"
 
 ## 1. Introduction
 
-This document presents my case for contract renewal as part of my three-year review. My annual merit reviews from 2024 and 2025, which provide administrative evaluations of my performance across teaching, research, and service, are included in [Appendix A](#appendix-a-annual-merit-reviews).
+This document presents my case for contract renewal as part of my three-year review. My annual merit reviews from 2024 and 2025, which provide administrative evaluations of my performance across teaching, research, and service, are included in [Appendix](#appendix-a-annual-merit-reviews).
 
 During my time at GVSU, I have worked to establish myself as an effective teacher-scholar who contributes meaningfully to the College and University community. My efforts have focused on delivering high-quality instruction in computer networking and cybersecurity, building an active research program with student involvement, and engaging in service at multiple levels of the institution.
 
@@ -26,7 +26,7 @@ According to the new College of Computing Standards and Criteria for Tenure-line
 - Strong demonstrated interest and proven ability in high-quality and best practices in computing instruction and curriculum/laboratory development (as exhibited through evidence T1, T3, T4, T5, T6, T7, and T8 below)
 - Delivery of high-quality content in multiple courses at different levels and/or topics and considering the effort related to courses preparation (as exhibited through evidence T3, T4, T5, T7, and T8 below)
 - Consistently received positive student evaluations/feedback and peer evaluations (as exhibited through evidence T3, T4, and T7, below)
-- Recognized of providing a high-quality mentorship for undergraduate and/or graduate students in capstone projects, directed study, projects, or theses/dissertations (as exhibited through evidence T6 below)
+- Recognized for providing a high-quality mentorship for undergraduate and/or graduate students in capstone projects, directed study, projects, or theses/dissertations (as exhibited through evidence T6 below)
 
 **Excellent in Scholarly and Creative Activity**
 
@@ -37,7 +37,7 @@ According to the new College of Computing Standards and Criteria for Tenure-line
 
 **Accomplished in Service**
 
-- Recognition for contributing to the academic/professional community through responsibilities such as journal editorships, conference program/organization committee memberships, grant proposal review panels,K-12 outreach, panels in the community related to education/tech, and other professional society organizers (as exhibited through evidence S1, S2, S3, S4, S5, S6, S7, S9, S10, and S11 below)
+- Recognition for contributing to the academic/professional community through responsibilities such as journal editorships, conference program/organization committee memberships, grant proposal review panels, K-12 outreach, panels in the community related to education/tech, and other professional society organizers (as exhibited through evidence S1, S2, S3, S4, S5, S6, S7, S9, S10, and S11 below)
 - Service on taskforces/committees, and participation and engagement in Department, College and/or University wide meetings and events and community/K-12 outreach (as exhibited through evidence S1, S2, S3, and S11 below)
 - Involvement in student services such as supervising, recruiting, and/or other activities (as exhibited through evidence S3, S4 and S5 below)
 
@@ -137,7 +137,7 @@ My collaboration with colleagues who have generously shared their expertise has 
 - **Jagadeesh Nandigam** shared his extensive experience with CIS 418 and CIS 518
 - **Andrew Kalafut** provided advice on CIS 258 and CIS 468
 - **Jonathan Engelsma** helped me restructure CIS 468 based on his successful CS capstone model
-- **Hans Dulimarta and Christian Trefftz** provided material and advise on CIS 457 and CIS 654
+- **Hans Dulimarta and Christian Trefftz** provided material and advice on CIS 457 and CIS 654
 
 These collaborations have accelerated my development as an instructor and helped me avoid common pitfalls while adopting proven practices. In turn, I have done my best to provide guidance and teaching materials to colleagues who subsequently teach courses I have previously taught.
 
@@ -300,14 +300,18 @@ The trajectory of my evaluations, from initial ratings around 3.8-4.1 in my firs
 ![Figure 7: CIS 337 Effectiveness Trajectory](/images/evaluations/fig9_cis337_effectiveness_trajectory.png)
 *Figure 7: CIS 337 Effectiveness Trajectory*
 
-#### Class Visit Reports
+#### Class Visitation Reports
 
 The following class visit reports document peer observations of my teaching:
 
 | Report Type | Document |
 |-------------|----------|
-| In-Person Class Visits | [PDF](/docs/class-visits/in_person_visits.pdf) |
-| Online Class Visits | [PDF](/docs/class-visits/online_visits.pdf) |
+| In-Person Class Visits (CIS 418 sections 1 and 2) | [PDF](/docs/class-visits/in_person_visits.pdf) |
+| Online Class Assessment (CIS 654) | [PDF](/docs/class-visits/online_visits.pdf) |
+
+I want to thank my colleagues who assessed my courses with their class visits and for providing me with their valuable comments. In my correspondence with them after their evaluations, their feedback was very positive.
+The most rewarding comment came from Christan Trefftz who told me in an email after his class visit *"I am not a cybersecurity person, but if I were to teach again, I think a setup like the one you have for your course promotes hands-on learning"*, and in a subsequent email he repeated *"If I were to teach again, I would follow your lead"*.
+Christian made these comments 3 months before retiring, having served 25 years at GVSU and being the recipient of the Glenn A. Niemeyer Award. Receiving such comments, from someone I admire and look up to, was obviously a great honor.
 
 ---
 
@@ -317,7 +321,7 @@ The following class visit reports document peer observations of my teaching:
 
 Since joining GVSU, I have invested significant effort in developing high-quality instructional materials. For each course I teach, I collect and synthesize material from multiple sources to create clear, concise, and engaging content tailored to our students' needs:
 
-- **Previous instructors:** I consulted with colleagues who had taught these courses before, including Kim Hawkins and Samah Mansour (CIS 337), Jagadeesh Nandigam (CIS 418, CIS 518), Andrew Kalafut (CIS 258, CIS 468), Jonathan Englesma (CIS 468), and Mostafa El-Said.
+- **Previous instructors:** I consulted with colleagues who had taught these courses before, including Kim Hawkins and Samah Mansour (CIS 337), Jagadeesh Nandigam (CIS 418, CIS 518), Andrew Kalafut (CIS 258, CIS 468), Jonathan Engelsma (CIS 468), and Mostafa El-Said.
 - **Textbooks and book-related resources:** I incorporated content from adopted textbooks while supplementing with additional explanations and examples.
 - **My graduate coursework:** I drew upon material from similar courses I took at the University of Florida during my Ph.D. studies.
 - **Scientific papers and industry standards:** I integrated current research and real-world practices to ensure relevance.
@@ -881,7 +885,7 @@ I have also collaborated with several companies, providing ideas and expertise o
 | AISTATS | Conference | 1 | 2023 |
 | Springer Nature | Journal | 1 | 2023 |
 | Springer Nature | Journal | 1 | 2024 |
-| IEEE Transactions on Computational Social Systems | Conference | 2 | 2025 |
+| IEEE Transactions on Computational Social Systems | Journal | 2 | 2025 |
 | Transactions on Networking | Journal | 2 | 2025 |
 | AISTATS | Conference | 1 | 2025 |
 | VLDB | Journal | 1 | 2025 |
@@ -930,7 +934,7 @@ I am grateful for the mentorship and support I have received from my colleagues 
 
 ---
 
-## Appendix A: Annual Merit Reviews
+## Appendix: Annual Merit Reviews
 
 The following documents are my annual merit reviews, which provide administrative evaluations of my performance:
 
