@@ -946,7 +946,8 @@ The following documents are my annual merit reviews, which provide administrativ
 <script>
 document.addEventListener('DOMContentLoaded', function() {
     document.querySelectorAll('a').forEach(function(link) {
-        if (!link.getAttribute('target')) {
+        var href = link.getAttribute('href');
+        if (!link.getAttribute('target') && href && !href.startsWith('#')) {
             link.setAttribute('target', '_blank');
             link.setAttribute('rel', 'noopener noreferrer');
         }
