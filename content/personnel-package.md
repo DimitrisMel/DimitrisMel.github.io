@@ -15,7 +15,7 @@ title: "Personnel Package"
 
 ## 1. Introduction
 
-This document presents my case for contract renewal as part of my three-year review.
+This document presents my case for contract renewal as part of my three-year review. My annual merit reviews from 2024 and 2025, which provide administrative evaluations of my performance across teaching, research, and service, are included in [Appendix A](#appendix-a-annual-merit-reviews).
 
 During my time at GVSU, I have worked to establish myself as an effective teacher-scholar who contributes meaningfully to the College and University community. My efforts have focused on delivering high-quality instruction in computer networking and cybersecurity, building an active research program with student involvement, and engaging in service at multiple levels of the institution.
 
@@ -927,3 +927,14 @@ I am grateful for the mentorship and support I have received from my colleagues 
 ---
 
 *This document was prepared following the new College of Computing Standards and Criteria for Tenure-line Faculty Personnel Evaluation (February 2025 version).*
+
+---
+
+## Appendix A: Annual Merit Reviews
+
+The following documents are my annual merit reviews, which provide administrative evaluations of my performance:
+
+| Review Year | Document |
+|-------------|----------|
+| 2024 Annual Merit Review | [PDF](/docs/salary-reviews/annual_merit_review_2024.pdf) |
+| 2025 Annual Merit Review | [PDF](/docs/salary-reviews/annual_merit_review_2025.pdf) |
