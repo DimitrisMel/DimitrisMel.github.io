@@ -170,8 +170,8 @@ Since joining GVSU in August 2023, I have taught a total of **21 course sections
 | Secure Software Engineering | CIS 418 | Fall | 2025 | 1 | 35 | [PDF](/docs/syllabi/cis418_fall2025_sec1.pdf) |
 | Secure Software Engineering | CIS 418 | Fall | 2025 | 2 | 21 | [PDF](/docs/syllabi/cis418_fall2025_sec2.pdf) |
 | Independent Study | CIS 499 | Fall | 2025 | 4 | 1 | — |
-| Data Communications | CIS 457 | Winter | 2026 | 2 | 18 | — |
-| Data Communications | CIS 457 | Winter | 2026 | 4 | 18 | — |
+| Data Communications | CIS 457 | Winter | 2026 | 2 | 18 | [PDF](/docs/syllabi/Syllabus_CIS457_02_Winter2026.pdf) |
+| Data Communications | CIS 457 | Winter | 2026 | 4 | 18 | [PDF](/docs/syllabi/Syllabus_CIS457_04_Winter2026.pdf) |
 | Computer Networking | CIS 654 | Winter | 2026 | 1 | 30 | [PDF](/docs/syllabi/cis654_winter2026.pdf) |
 
 **Summary:**
