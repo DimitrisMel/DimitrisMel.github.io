@@ -83,7 +83,7 @@ Computer Engineering and Informatics Department, University of Patras, Greece
 
 **Assistant Professor at Grand Valley State University, College of Computing, Department of Computer Science** <span style="float: right; color: #666;">August 2023 - Current</span>
 
-- Courses taught: Introduction to Cybersecurity (CIS 258), Network Systems Management (CIS 337), Secure Software Engineering (CIS 418), Data Communications (CIS 457), Cybersecurity Project (CIS 468), Secure Software Engineering (CIS 518), Computer Networking (CIS 654), Master's Project (CIS 693)
+- Courses taught: Introduction to Cybersecurity (CIS 258), Network Systems Management (CIS 337), Secure Software Engineering (CIS 418), Data Communications (CIS 457), Cybersecurity Project (CIS 468), Independent Study (CIS 499), Secure Software Engineering (CIS 518), Computer Networking (CIS 654), Master's Project (CIS 693)
 - Research on network traffic measurement and machine learning privacy
 - Mentoring graduate and undergraduate students in teaching assistant and research assistant positions
 
