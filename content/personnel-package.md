@@ -43,13 +43,13 @@ title: "Personnel Package"
    - [4.9 Editorial and Conference Roles (S10)](#49-editorial-and-conference-roles-s10)
    - [4.10 Departmental Support (S11)](#410-departmental-support-s11)
 5. [Conclusion](#5-conclusion)
-- [Appendix: Annual Merit Reviews](#appendix-annual-merit-reviews)
+- [Appendix: Peer Evaluations](#appendix-peer-evaluations)
 
 ---
 
 ## 1. Introduction
 
-This document presents my case for contract renewal as part of my three-year review. My annual merit reviews from 2024 and 2025, which provide administrative evaluations of my performance across teaching, research, and service, are included in [Appendix](#appendix-annual-merit-reviews).
+This document presents my case for contract renewal as part of my three-year review. My peer evaluations from 2023-2024 and 2024-2025 are included in [Appendix](#appendix-peer-evaluations).
 
 During my time at GVSU, I have worked to establish myself as an effective teacher-scholar who contributes meaningfully to the College and University community. My efforts have focused on delivering high-quality instruction in computer networking and cybersecurity, building an active research program with student involvement, and engaging in service at multiple levels of the institution.
 
@@ -968,14 +968,14 @@ I am grateful for the mentorship and support I have received from my colleagues 
 
 ---
 
-## Appendix: Annual Merit Reviews
+## Appendix: Peer Evaluations
 
-The following documents are my annual merit reviews, which provide administrative evaluations of my performance:
+The following documents are my peer evaluations:
 
-| Review Year | Document |
-|-------------|----------|
-| 2024 Annual Merit Review | [PDF](/docs/salary-reviews/annual_merit_review_2024.pdf) |
-| 2025 Annual Merit Review | [PDF](/docs/salary-reviews/annual_merit_review_2025.pdf) |
+| Academic Year | Document |
+|---------------|----------|
+| 2023-2024 | [PDF](/docs/peer-evaluations/peer_evaluation_2023-2024.pdf) |
+| 2024-2025 | [PDF](/docs/peer-evaluations/peer_evaluation_2024-2025.pdf) |
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
